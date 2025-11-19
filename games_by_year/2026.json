@@ -1,0 +1,26 @@
+[
+  {
+    "appid": 3783820,
+    "name": "Love Bird",
+    "type": "game",
+    "is_free": false,
+    "release_date_raw": "Feb 13, 2026",
+    "genres": "Indie;Simulation;Early Access",
+    "categories": "Single-player;Family Sharing",
+    "price": NaN,
+    "currency": null,
+    "release_year": 2026.0
+  },
+  {
+    "appid": 1631270,
+    "name": "StarRupture",
+    "type": "game",
+    "is_free": false,
+    "release_date_raw": "Jan 6, 2026",
+    "genres": "Action;Adventure;Indie;Simulation;Early Access",
+    "categories": "Single-player;Multi-player;Co-op;Online Co-op;Family Sharing",
+    "price": NaN,
+    "currency": null,
+    "release_year": 2026.0
+  }
+]

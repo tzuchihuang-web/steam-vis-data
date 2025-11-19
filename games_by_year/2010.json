@@ -1,0 +1,122 @@
+[
+  {
+    "appid": 41804,
+    "name": "Gratuitous Space Battles: The Swarm",
+    "type": "dlc",
+    "is_free": false,
+    "release_date_raw": "May 19, 2010",
+    "genres": "Strategy;Indie;Simulation",
+    "categories": "Single-player;Multi-player;Downloadable Content;Family Sharing",
+    "price": 5.99,
+    "currency": "USD",
+    "release_year": 2010.0
+  },
+  {
+    "appid": 35140,
+    "name": "Batman: Arkham Asylum Game of the Year Edition",
+    "type": "game",
+    "is_free": false,
+    "release_date_raw": "Mar 26, 2010",
+    "genres": "Action;Adventure",
+    "categories": "Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Family Sharing",
+    "price": 19.99,
+    "currency": "USD",
+    "release_year": 2010.0
+  },
+  {
+    "appid": 35417,
+    "name": "Killing Floor: PostMortem Character Pack",
+    "type": "dlc",
+    "is_free": false,
+    "release_date_raw": "Oct 7, 2010",
+    "genres": "Action",
+    "categories": "Single-player;Multi-player;Co-op;Downloadable Content;Family Sharing",
+    "price": 1.99,
+    "currency": "USD",
+    "release_year": 2010.0
+  },
+  {
+    "appid": 34930,
+    "name": "Razor2: Hidden Skies Demo",
+    "type": "demo",
+    "is_free": true,
+    "release_date_raw": "Jul 20, 2010",
+    "genres": "Action;Casual;Indie",
+    "categories": "Game demo",
+    "price": NaN,
+    "currency": null,
+    "release_year": 2010.0
+  },
+  {
+    "appid": 38150,
+    "name": "Farm Frenzy 3",
+    "type": "game",
+    "is_free": false,
+    "release_date_raw": "Feb 15, 2010",
+    "genres": "Casual",
+    "categories": "Single-player;Family Sharing",
+    "price": 9.99,
+    "currency": "USD",
+    "release_year": 2010.0
+  },
+  {
+    "appid": 61500,
+    "name": "Age of Wonders",
+    "type": "game",
+    "is_free": false,
+    "release_date_raw": "Oct 12, 2010",
+    "genres": "RPG;Strategy",
+    "categories": "Single-player;Multi-player;Family Sharing",
+    "price": 5.99,
+    "currency": "USD",
+    "release_year": 2010.0
+  },
+  {
+    "appid": 57010,
+    "name": "NyxQuest Demo",
+    "type": "demo",
+    "is_free": true,
+    "release_date_raw": "Sep 27, 2010",
+    "genres": "Action;Adventure",
+    "categories": "Game demo",
+    "price": NaN,
+    "currency": null,
+    "release_year": 2010.0
+  },
+  {
+    "appid": 10195,
+    "name": "Call of Duty®: Modern Warfare® 2 Stimulus Package",
+    "type": "dlc",
+    "is_free": false,
+    "release_date_raw": "May 4, 2010",
+    "genres": "Action",
+    "categories": "Multi-player;Downloadable Content;Steam Cloud;Valve Anti-Cheat enabled;Family Sharing",
+    "price": 14.99,
+    "currency": "USD",
+    "release_year": 2010.0
+  },
+  {
+    "appid": 24096,
+    "name": "Train Simulator: Falmouth Branch Route Add-On",
+    "type": "dlc",
+    "is_free": false,
+    "release_date_raw": "Dec 17, 2010",
+    "genres": "Simulation",
+    "categories": "Single-player;Downloadable Content;Family Sharing",
+    "price": 12.99,
+    "currency": "USD",
+    "release_year": 2010.0
+  },
+  {
+    "appid": 50510,
+    "name": "Burn Zombie Burn!",
+    "type": "game",
+    "is_free": false,
+    "release_date_raw": "Aug 12, 2010",
+    "genres": "Action",
+    "categories": "Single-player;Steam Achievements;Partial Controller Support;Steam Cloud;Steam Leaderboards;Family Sharing",
+    "price": 9.99,
+    "currency": "USD",
+    "release_year": 2010.0
+  }
+]

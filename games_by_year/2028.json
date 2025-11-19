@@ -1,0 +1,38 @@
+[
+  {
+    "appid": 1001520,
+    "name": "Space Rift",
+    "type": "game",
+    "is_free": false,
+    "release_date_raw": "Jan 3, 2028",
+    "genres": null,
+    "categories": "Family Sharing",
+    "price": NaN,
+    "currency": null,
+    "release_year": 2028.0
+  },
+  {
+    "appid": 1926550,
+    "name": "Orbit Or Beat Extended Edition",
+    "type": "game",
+    "is_free": false,
+    "release_date_raw": "Dec 20, 2028",
+    "genres": "Action;Casual;Indie",
+    "categories": "Single-player;Family Sharing",
+    "price": NaN,
+    "currency": null,
+    "release_year": 2028.0
+  },
+  {
+    "appid": 3136000,
+    "name": "They Are Rising",
+    "type": "game",
+    "is_free": false,
+    "release_date_raw": "Jan 3, 2028",
+    "genres": "Action;Casual;Indie;RPG",
+    "categories": "Single-player;Family Sharing",
+    "price": NaN,
+    "currency": null,
+    "release_year": 2028.0
+  }
+]

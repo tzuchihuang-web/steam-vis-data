@@ -1,0 +1,38 @@
+[
+  {
+    "appid": 3800,
+    "name": "Advent Rising",
+    "type": "game",
+    "is_free": false,
+    "release_date_raw": "Sep 14, 2006",
+    "genres": "Action",
+    "categories": "Single-player;Steam Trading Cards;Family Sharing",
+    "price": 9.99,
+    "currency": "USD",
+    "release_year": 2006.0
+  },
+  {
+    "appid": 4100,
+    "name": "Poker Superstars II",
+    "type": "game",
+    "is_free": false,
+    "release_date_raw": "Oct 5, 2006",
+    "genres": "Casual;Strategy;Indie",
+    "categories": "Single-player;Family Sharing",
+    "price": 9.99,
+    "currency": "USD",
+    "release_year": 2006.0
+  },
+  {
+    "appid": 3340,
+    "name": "AstroPop Deluxe",
+    "type": "game",
+    "is_free": false,
+    "release_date_raw": "Aug 30, 2006",
+    "genres": "Casual",
+    "categories": "Single-player;Family Sharing",
+    "price": 4.99,
+    "currency": "USD",
+    "release_year": 2006.0
+  }
+]

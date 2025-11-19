@@ -1,0 +1,38 @@
+[
+  {
+    "appid": 10420,
+    "name": "Worldwide Soccer Manager 2008",
+    "type": "advertising",
+    "is_free": false,
+    "release_date_raw": "Mar 11, 2008",
+    "genres": "Sports;Simulation",
+    "categories": "Single-player;Family Sharing",
+    "price": NaN,
+    "currency": null,
+    "release_year": 2008.0
+  },
+  {
+    "appid": 15390,
+    "name": "Brothers in Arms: Hell's Highway™",
+    "type": "game",
+    "is_free": false,
+    "release_date_raw": "Oct 8, 2008",
+    "genres": "Action",
+    "categories": "Single-player;Family Sharing",
+    "price": 9.99,
+    "currency": "USD",
+    "release_year": 2008.0
+  },
+  {
+    "appid": 201010,
+    "name": "Geneforge 5: Overthrow",
+    "type": "game",
+    "is_free": false,
+    "release_date_raw": "Nov 1, 2008",
+    "genres": "Strategy;RPG;Indie",
+    "categories": "Single-player;Family Sharing",
+    "price": 19.99,
+    "currency": "USD",
+    "release_year": 2008.0
+  }
+]

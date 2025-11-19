@@ -1,0 +1,14 @@
+[
+  {
+    "appid": 3699610,
+    "name": "Singularity RPG",
+    "type": "game",
+    "is_free": false,
+    "release_date_raw": "Jan 4, 2027",
+    "genres": "RPG",
+    "categories": "Single-player;Adjustable Text Size;Color Alternatives;Custom Volume Controls;Keyboard Only Option;Mouse Only Option;Playable without Timed Input;Save Anytime;Stereo Sound;Subtitle Options;Touch Only Option;Partial Controller Support;Family Sharing",
+    "price": NaN,
+    "currency": null,
+    "release_year": 2027.0
+  }
+]
