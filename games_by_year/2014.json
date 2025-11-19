@@ -235,7 +235,7 @@
     "release_date_raw": "Mar 19, 2014",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support;Steam Achievements;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2014.0
   },
@@ -247,7 +247,7 @@
     "release_date_raw": "Jul 14, 2014",
     "genres": "Simulation",
     "categories": "Single-player;Multi-player;Cross-Platform Multiplayer;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2014.0
   },
@@ -427,7 +427,7 @@
     "release_date_raw": "May 1, 2014",
     "genres": "Action;Indie;Free To Play",
     "categories": "Multi-player;Co-op;Steam Achievements;Steam Trading Cards;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2014.0
   },
@@ -451,7 +451,7 @@
     "release_date_raw": "Sep 16, 2014",
     "genres": "Video Production",
     "categories": "Downloadable Content",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2014.0
   },
@@ -583,7 +583,7 @@
     "release_date_raw": "Oct 31, 2014",
     "genres": "Adventure;Indie;RPG;Simulation;Strategy",
     "categories": "Single-player;Game demo;Steam Achievements;Steam Cloud;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2014.0
   },
@@ -775,7 +775,7 @@
     "release_date_raw": "Nov 20, 2014",
     "genres": "Indie;Strategy",
     "categories": "Single-player;Multi-player;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2014.0
   },
@@ -823,7 +823,7 @@
     "release_date_raw": "Jan 16, 2014",
     "genres": "Action;Adventure;Free To Play;Indie",
     "categories": "Single-player;Steam Achievements;Captions available;VR Support;Steam Workshop;Partial Controller Support;Steam Cloud;Includes level editor;Includes Source SDK",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2014.0
   },
@@ -883,7 +883,7 @@
     "release_date_raw": "Dec 9, 2014",
     "genres": "Action;Adventure;Indie",
     "categories": "Single-player;Shared/Split Screen;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2014.0
   },
@@ -895,7 +895,7 @@
     "release_date_raw": "Jun 17, 2014",
     "genres": "Audio Production",
     "categories": "Downloadable Content",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2014.0
   },
@@ -907,7 +907,7 @@
     "release_date_raw": "Jul 7, 2014",
     "genres": "Casual;Simulation;Strategy",
     "categories": "Single-player;Game demo;Steam Achievements;Stats",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2014.0
   },
@@ -1003,7 +1003,7 @@
     "release_date_raw": "May 6, 2014",
     "genres": "Action;Indie",
     "categories": "Single-player;Steam Achievements;Full controller support;Steam Cloud;Stats",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2014.0
   },
@@ -1075,7 +1075,7 @@
     "release_date_raw": "Aug 22, 2014",
     "genres": "Action;Free To Play;Indie;Massively Multiplayer;Racing;RPG;Strategy",
     "categories": "Multi-player;MMO;Cross-Platform Multiplayer;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2014.0
   },
@@ -1135,7 +1135,7 @@
     "release_date_raw": "Jul 1, 2014",
     "genres": "Action;Massively Multiplayer;Free To Play",
     "categories": "Multi-player;MMO;PvP;Online PvP;Co-op;Online Co-op;Steam Achievements;Steam Trading Cards;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2014.0
   },
@@ -1303,7 +1303,7 @@
     "release_date_raw": "Dec 18, 2014",
     "genres": "Indie;Massively Multiplayer;Simulation;Strategy",
     "categories": "MMO;Steam Trading Cards;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2014.0
   },
@@ -1315,7 +1315,7 @@
     "release_date_raw": "Jul 15, 2014",
     "genres": "Action;Free To Play;Indie;Early Access",
     "categories": "Multi-player;Cross-Platform Multiplayer;Steam Achievements;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2014.0
   },
@@ -1339,7 +1339,7 @@
     "release_date_raw": "Nov 20, 2014",
     "genres": "Indie",
     "categories": "Single-player;Downloadable Content",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2014.0
   },

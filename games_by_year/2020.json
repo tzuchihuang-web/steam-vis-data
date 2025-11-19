@@ -7,7 +7,7 @@
     "release_date_raw": "Jun 4, 2020",
     "genres": "Adventure;Casual;Indie;RPG",
     "categories": "Single-player;Game demo;Steam Achievements;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -55,7 +55,7 @@
     "release_date_raw": "Oct 5, 2020",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -67,7 +67,7 @@
     "release_date_raw": "Oct 13, 2020",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -175,7 +175,7 @@
     "release_date_raw": "Jun 26, 2020",
     "genres": "Racing;Simulation",
     "categories": "Single-player;Downloadable Content;Partial Controller Support;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -187,7 +187,7 @@
     "release_date_raw": "Sep 29, 2020",
     "genres": "Casual;Audio Production;Utilities;Video Production",
     "categories": "Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -199,7 +199,7 @@
     "release_date_raw": "Feb 13, 2020",
     "genres": "Casual;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -235,7 +235,7 @@
     "release_date_raw": "Mar 23, 2020",
     "genres": "Action;Adventure",
     "categories": "Single-player;Multi-player;Co-op;Online Co-op;Downloadable Content;Steam Achievements;Partial Controller Support;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -295,7 +295,7 @@
     "release_date_raw": "Jun 27, 2020",
     "genres": "Casual;Indie;Simulation",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -331,7 +331,7 @@
     "release_date_raw": "Sep 10, 2020",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -559,7 +559,7 @@
     "release_date_raw": "Sep 14, 2020",
     "genres": "Action;Casual;Free To Play;Early Access",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Co-op;Online Co-op;Tracked Controller Support;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -571,7 +571,7 @@
     "release_date_raw": "Sep 18, 2020",
     "genres": "Casual;Free To Play;Indie;Strategy",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Co-op;Online Co-op;Cross-Platform Multiplayer;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -583,7 +583,7 @@
     "release_date_raw": "Jul 20, 2020",
     "genres": "Strategy",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -691,7 +691,7 @@
     "release_date_raw": "Dec 17, 2020",
     "genres": "Action;Indie",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -739,7 +739,7 @@
     "release_date_raw": "Sep 10, 2020",
     "genres": "Indie;RPG",
     "categories": "Multi-player;PvP;Online PvP;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -787,7 +787,7 @@
     "release_date_raw": "Aug 6, 2020",
     "genres": "Free To Play;Strategy",
     "categories": "Single-player;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -799,7 +799,7 @@
     "release_date_raw": "Mar 12, 2020",
     "genres": "Casual;Indie;Simulation",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Steam Cloud;Stats;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -871,7 +871,7 @@
     "release_date_raw": "Dec 15, 2020",
     "genres": "Adventure",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -883,7 +883,7 @@
     "release_date_raw": "Oct 6, 2020",
     "genres": "Casual;Free To Play;Indie",
     "categories": "Single-player;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -907,7 +907,7 @@
     "release_date_raw": "Mar 11, 2020",
     "genres": "Action;Free To Play;Indie",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -919,7 +919,7 @@
     "release_date_raw": "May 4, 2020",
     "genres": "Adventure;Free To Play;Indie",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1003,7 +1003,7 @@
     "release_date_raw": "Feb 20, 2020",
     "genres": "RPG",
     "categories": "Single-player;Steam Achievements;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1015,7 +1015,7 @@
     "release_date_raw": "May 10, 2020",
     "genres": "Adventure;Casual;Free To Play;Indie;RPG;Simulation;Strategy",
     "categories": "Single-player;Multi-player;In-App Purchases;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1171,7 +1171,7 @@
     "release_date_raw": "Jan 29, 2020",
     "genres": "Adventure;Casual;Indie;Simulation",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Steam Trading Cards;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1195,7 +1195,7 @@
     "release_date_raw": "Aug 3, 2020",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1411,7 +1411,7 @@
     "release_date_raw": "Aug 8, 2020",
     "genres": "Indie;RPG",
     "categories": "Single-player;Downloadable Content;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1435,7 +1435,7 @@
     "release_date_raw": "Jul 30, 2020",
     "genres": null,
     "categories": "Additional High-Quality Audio",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1471,7 +1471,7 @@
     "release_date_raw": "Apr 21, 2020",
     "genres": "Action;Adventure;Casual;Free To Play",
     "categories": "Single-player;Game demo;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1543,7 +1543,7 @@
     "release_date_raw": "Sep 17, 2020",
     "genres": null,
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1555,7 +1555,7 @@
     "release_date_raw": "Aug 27, 2020",
     "genres": "Action;Indie;Racing;Strategy",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Shared/Split Screen;Steam Achievements;Full controller support;Steam Cloud;Includes level editor;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1627,7 +1627,7 @@
     "release_date_raw": "Sep 15, 2020",
     "genres": null,
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1675,7 +1675,7 @@
     "release_date_raw": "Jun 15, 2020",
     "genres": "Adventure;Casual;Free To Play;Indie",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1687,7 +1687,7 @@
     "release_date_raw": "Dec 24, 2020",
     "genres": "Action;Indie",
     "categories": "Single-player;Steam Achievements;Tracked Controller Support;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1723,7 +1723,7 @@
     "release_date_raw": "Mar 2, 2020",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1819,7 +1819,7 @@
     "release_date_raw": "May 26, 2020",
     "genres": null,
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1831,7 +1831,7 @@
     "release_date_raw": "Apr 20, 2020",
     "genres": "Casual;Indie;Simulation",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1879,7 +1879,7 @@
     "release_date_raw": "Dec 24, 2020",
     "genres": "Action;Adventure",
     "categories": "Single-player;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1903,7 +1903,7 @@
     "release_date_raw": "Jul 28, 2020",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1927,7 +1927,7 @@
     "release_date_raw": "May 25, 2020",
     "genres": "Casual",
     "categories": "Single-player;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -1963,7 +1963,7 @@
     "release_date_raw": "Apr 29, 2020",
     "genres": "Casual;Indie;Early Access",
     "categories": "Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -2023,7 +2023,7 @@
     "release_date_raw": "Mar 16, 2020",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -2047,7 +2047,7 @@
     "release_date_raw": "Aug 27, 2020",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -2215,7 +2215,7 @@
     "release_date_raw": "Jul 30, 2020",
     "genres": "Action;Free To Play",
     "categories": "Single-player;Steam Achievements;Full controller support;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -2275,7 +2275,7 @@
     "release_date_raw": "Feb 5, 2020",
     "genres": "Action;Free To Play;Indie;Racing",
     "categories": "Single-player;Steam Achievements;Partial Controller Support;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -2371,7 +2371,7 @@
     "release_date_raw": "Oct 4, 2020",
     "genres": null,
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Steam Achievements;Full controller support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -2431,7 +2431,7 @@
     "release_date_raw": "May 8, 2020",
     "genres": "Adventure;Indie;RPG;Simulation;Strategy",
     "categories": "Single-player;Multi-player;Co-op;Online Co-op;Cross-Platform Multiplayer;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -2455,7 +2455,7 @@
     "release_date_raw": "May 9, 2020",
     "genres": "Indie;RPG;Strategy",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -2503,7 +2503,7 @@
     "release_date_raw": "Mar 14, 2020",
     "genres": "Action;Indie",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -2515,7 +2515,7 @@
     "release_date_raw": "Oct 6, 2020",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -2551,7 +2551,7 @@
     "release_date_raw": "Sep 11, 2020",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -2575,7 +2575,7 @@
     "release_date_raw": "Apr 17, 2020",
     "genres": "Action;Casual;Indie;Free To Play",
     "categories": "Single-player;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -2623,7 +2623,7 @@
     "release_date_raw": "Aug 4, 2020",
     "genres": null,
     "categories": "Single-player;Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Game demo;Full controller support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -2635,7 +2635,7 @@
     "release_date_raw": "Apr 22, 2020",
     "genres": "Casual;Indie;Simulation;Free To Play",
     "categories": "Single-player;Steam Achievements;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -2647,7 +2647,7 @@
     "release_date_raw": "Mar 6, 2020",
     "genres": "Action;Adventure;Indie",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -2683,7 +2683,7 @@
     "release_date_raw": "Dec 9, 2020",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -2875,7 +2875,7 @@
     "release_date_raw": "Jan 22, 2020",
     "genres": "Action;Indie;RPG",
     "categories": "Single-player;Game demo;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -2971,7 +2971,7 @@
     "release_date_raw": "Mar 5, 2020",
     "genres": "Adventure;Free To Play;Indie;Simulation",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3127,7 +3127,7 @@
     "release_date_raw": "Oct 6, 2020",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3139,7 +3139,7 @@
     "release_date_raw": "Sep 21, 2020",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3199,7 +3199,7 @@
     "release_date_raw": "Jun 16, 2020",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3223,7 +3223,7 @@
     "release_date_raw": "Apr 29, 2020",
     "genres": "Action;Casual;Free To Play",
     "categories": "Single-player;Steam Achievements;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3247,7 +3247,7 @@
     "release_date_raw": "Mar 2, 2020",
     "genres": "Education;Utilities",
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3439,7 +3439,7 @@
     "release_date_raw": "Jul 21, 2020",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3451,7 +3451,7 @@
     "release_date_raw": "Oct 7, 2020",
     "genres": "Casual;Indie;Simulation;Free To Play",
     "categories": "Single-player;Steam Achievements;Custom Volume Controls;Mouse Only Option;Playable without Timed Input;Touch Only Option",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3487,7 +3487,7 @@
     "release_date_raw": "Jul 27, 2020",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3511,7 +3511,7 @@
     "release_date_raw": "Mar 26, 2020",
     "genres": "Casual;Indie;Strategy",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3535,7 +3535,7 @@
     "release_date_raw": "Jun 16, 2020",
     "genres": "Action;Indie",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3631,7 +3631,7 @@
     "release_date_raw": "Feb 6, 2020",
     "genres": "Indie;Strategy",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3655,7 +3655,7 @@
     "release_date_raw": "Oct 1, 2020",
     "genres": "Free To Play;Indie;RPG",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3667,7 +3667,7 @@
     "release_date_raw": "Dec 3, 2020",
     "genres": "Action;Strategy",
     "categories": "Single-player;Multi-player;PvP;Online PvP;LAN PvP;Co-op;Online Co-op;LAN Co-op;Downloadable Content;Steam Achievements;Steam Trading Cards;Steam Workshop;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3775,7 +3775,7 @@
     "release_date_raw": "Jun 16, 2020",
     "genres": "Indie;Strategy",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3871,7 +3871,7 @@
     "release_date_raw": "Jun 16, 2020",
     "genres": "Action;Indie;RPG;Strategy",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3883,7 +3883,7 @@
     "release_date_raw": "Jul 1, 2020",
     "genres": "Action;Free To Play",
     "categories": "Single-player;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3907,7 +3907,7 @@
     "release_date_raw": "Dec 6, 2020",
     "genres": "Action;Casual;Free To Play;Indie",
     "categories": "Single-player;Multi-player;PvP;Online PvP",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3919,7 +3919,7 @@
     "release_date_raw": "Sep 29, 2020",
     "genres": "Casual;Utilities",
     "categories": "Downloadable Content;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3955,7 +3955,7 @@
     "release_date_raw": "Feb 24, 2020",
     "genres": "Adventure;Free To Play;Indie;RPG;Simulation",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -3967,7 +3967,7 @@
     "release_date_raw": "Mar 27, 2020",
     "genres": "Action;Casual;Indie",
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Steam Achievements;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -4015,7 +4015,7 @@
     "release_date_raw": "Feb 10, 2020",
     "genres": "Indie;RPG;Strategy",
     "categories": "Single-player;Multi-player;Co-op;Online Co-op;Downloadable Content;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -4027,7 +4027,7 @@
     "release_date_raw": "Nov 29, 2020",
     "genres": "Action;Adventure;Free To Play;Indie;Early Access",
     "categories": "Single-player;Steam Achievements;Full controller support;Steam Cloud;Includes level editor",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -4063,7 +4063,7 @@
     "release_date_raw": "Sep 19, 2020",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -4111,7 +4111,7 @@
     "release_date_raw": "Jun 15, 2020",
     "genres": "Free To Play",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Co-op;Online Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Downloadable Content;Full controller support;Remote Play on TV;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -4195,7 +4195,7 @@
     "release_date_raw": "Sep 13, 2020",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -4231,7 +4231,7 @@
     "release_date_raw": "Jul 10, 2020",
     "genres": "Action;Adventure;Indie",
     "categories": "Single-player;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -4447,7 +4447,7 @@
     "release_date_raw": "Dec 27, 2020",
     "genres": null,
     "categories": "Game demo;Partial Controller Support;Includes level editor",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -4555,7 +4555,7 @@
     "release_date_raw": "Dec 29, 2020",
     "genres": "Adventure;Indie;Strategy",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -4615,7 +4615,7 @@
     "release_date_raw": "Dec 3, 2020",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -4639,7 +4639,7 @@
     "release_date_raw": "Dec 4, 2020",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -4687,7 +4687,7 @@
     "release_date_raw": "May 23, 2020",
     "genres": null,
     "categories": "Additional High-Quality Audio",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -4711,7 +4711,7 @@
     "release_date_raw": "Jul 20, 2020",
     "genres": "Action;Adventure;Casual;Indie",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Downloadable Content;Steam Achievements;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -4855,7 +4855,7 @@
     "release_date_raw": "Apr 27, 2020",
     "genres": "Action;Adventure;Casual;Strategy",
     "categories": "Single-player;Multi-player;PvP;LAN PvP;Shared/Split Screen PvP;Co-op;LAN Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Full controller support;Remote Play on TV;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -4915,7 +4915,7 @@
     "release_date_raw": "Jan 26, 2020",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -4939,7 +4939,7 @@
     "release_date_raw": "Aug 28, 2020",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -4963,7 +4963,7 @@
     "release_date_raw": "Mar 5, 2020",
     "genres": "Adventure;Casual;Indie;RPG",
     "categories": "Single-player;Game demo;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5023,7 +5023,7 @@
     "release_date_raw": "Oct 29, 2020",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5035,7 +5035,7 @@
     "release_date_raw": "Aug 27, 2020",
     "genres": "Action;Adventure;Indie",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5059,7 +5059,7 @@
     "release_date_raw": "Sep 7, 2020",
     "genres": "Action;Indie;Strategy",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5095,7 +5095,7 @@
     "release_date_raw": "Oct 10, 2020",
     "genres": "Casual;Free To Play;Massively Multiplayer;RPG",
     "categories": "Multi-player;MMO;PvP;Online PvP;Co-op;Online Co-op;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5143,7 +5143,7 @@
     "release_date_raw": "Feb 13, 2020",
     "genres": "Indie",
     "categories": "Single-player;Steam Achievements;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5179,7 +5179,7 @@
     "release_date_raw": "Jun 4, 2020",
     "genres": "Indie;RPG",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5227,7 +5227,7 @@
     "release_date_raw": "Sep 23, 2020",
     "genres": "Action;Indie",
     "categories": "Single-player;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5239,7 +5239,7 @@
     "release_date_raw": "May 7, 2020",
     "genres": "Strategy",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Game demo;Steam Achievements;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5359,7 +5359,7 @@
     "release_date_raw": "Mar 17, 2020",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5491,7 +5491,7 @@
     "release_date_raw": "Mar 30, 2020",
     "genres": "Action;Indie;Simulation",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5527,7 +5527,7 @@
     "release_date_raw": "Sep 7, 2020",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5587,7 +5587,7 @@
     "release_date_raw": "Feb 12, 2020",
     "genres": "Adventure;Indie;RPG;Strategy",
     "categories": "Single-player;Steam Achievements;Full controller support;Steam Cloud;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5659,7 +5659,7 @@
     "release_date_raw": "Feb 6, 2020",
     "genres": "Indie;Strategy",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Co-op;Online Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Downloadable Content;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Turn Notifications;Includes level editor;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5707,7 +5707,7 @@
     "release_date_raw": "May 28, 2020",
     "genres": "Adventure;Free To Play;Indie;RPG;Simulation",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5779,7 +5779,7 @@
     "release_date_raw": "Jun 16, 2020",
     "genres": "Free To Play;Indie;RPG;Strategy",
     "categories": "Single-player;Game demo;Steam Achievements;Steam Trading Cards;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5803,7 +5803,7 @@
     "release_date_raw": "Sep 15, 2020",
     "genres": "Free To Play;Indie",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5827,7 +5827,7 @@
     "release_date_raw": "Apr 14, 2020",
     "genres": "Adventure;Indie;RPG",
     "categories": "Single-player;Game demo;Steam Achievements;Steam Cloud;Remote Play on Phone;Remote Play on Tablet",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5923,7 +5923,7 @@
     "release_date_raw": "Aug 6, 2020",
     "genres": "Sports",
     "categories": "Single-player;Steam Achievements;In-App Purchases;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -5995,7 +5995,7 @@
     "release_date_raw": "Jun 5, 2020",
     "genres": "Action;Casual;Free To Play;Indie",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -6079,7 +6079,7 @@
     "release_date_raw": "Jul 2, 2020",
     "genres": "Action;Indie;RPG",
     "categories": "Single-player;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -6175,7 +6175,7 @@
     "release_date_raw": "Jun 16, 2020",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },
@@ -6187,7 +6187,7 @@
     "release_date_raw": "Jan 20, 2020",
     "genres": "Action;Adventure",
     "categories": "Single-player;Tracked Controller Support;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2020.0
   },

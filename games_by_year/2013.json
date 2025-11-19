@@ -139,7 +139,7 @@
     "release_date_raw": "Feb 12, 2013",
     "genres": "Racing;Simulation;Sports;Free To Play",
     "categories": "Single-player;Multi-player;PvP;Online PvP;VR Supported;Steam Trading Cards;In-App Purchases;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2013.0
   },
@@ -199,7 +199,7 @@
     "release_date_raw": "Dec 5, 2013",
     "genres": "Action;Adventure;Massively Multiplayer;RPG;Free To Play",
     "categories": "Single-player;Multi-player;MMO;PvP;Online PvP;Co-op;Online Co-op;Steam Trading Cards;In-App Purchases;Includes level editor",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2013.0
   },
@@ -247,7 +247,7 @@
     "release_date_raw": "May 15, 2013",
     "genres": "Action;Adventure;Indie;Strategy",
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2013.0
   },
@@ -283,7 +283,7 @@
     "release_date_raw": "Aug 2, 2013",
     "genres": "Simulation;Free To Play",
     "categories": "Single-player;Multi-player;PvP;Online PvP;LAN PvP;Co-op;Online Co-op;LAN Co-op;Tracked Controller Support;VR Supported;Captions available;VR Support;Camera Comfort;Color Alternatives;Custom Volume Controls;Adjustable Difficulty;Keyboard Only Option;Mouse Only Option;Playable without Timed Input;Save Anytime;Stereo Sound;Surround Sound;Touch Only Option;Partial Controller Support;Includes level editor",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2013.0
   },
@@ -331,7 +331,7 @@
     "release_date_raw": "Apr 20, 2013",
     "genres": "Action",
     "categories": "Single-player;Multi-player;Shared/Split Screen;Game demo;Steam Achievements;Full controller support;Stats;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2013.0
   },
@@ -355,7 +355,7 @@
     "release_date_raw": "Oct 31, 2013",
     "genres": "Massively Multiplayer;RPG;Free To Play",
     "categories": "Single-player;Multi-player;MMO;Steam Trading Cards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2013.0
   },
@@ -367,7 +367,7 @@
     "release_date_raw": "Dec 16, 2013",
     "genres": "Action;Adventure",
     "categories": "Single-player;Multi-player;Steam Achievements;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2013.0
   },
@@ -379,7 +379,7 @@
     "release_date_raw": "Dec 13, 2013",
     "genres": "Action;Indie;RPG",
     "categories": "Single-player;Steam Trading Cards;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2013.0
   },

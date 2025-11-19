@@ -7,7 +7,7 @@
     "release_date_raw": "Jul 16, 2025",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -31,7 +31,7 @@
     "release_date_raw": "Mar 6, 2025",
     "genres": "RPG;Free To Play",
     "categories": "Single-player;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -91,7 +91,7 @@
     "release_date_raw": "Jul 10, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -115,7 +115,7 @@
     "release_date_raw": "Feb 24, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -127,7 +127,7 @@
     "release_date_raw": "May 23, 2025",
     "genres": "Action;Casual;Indie",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -139,7 +139,7 @@
     "release_date_raw": "Apr 2, 2025",
     "genres": "Adventure;Casual;Indie",
     "categories": "Single-player;Game demo;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -151,7 +151,7 @@
     "release_date_raw": "May 29, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -163,7 +163,7 @@
     "release_date_raw": "Feb 12, 2025",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -175,7 +175,7 @@
     "release_date_raw": "May 23, 2025",
     "genres": "Adventure;Casual;Indie;Strategy",
     "categories": "Single-player;Game demo;Stats",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -187,7 +187,7 @@
     "release_date_raw": "Aug 5, 2025",
     "genres": "Action;Adventure",
     "categories": "Single-player;Game demo;Tracked Controller Support;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -235,7 +235,7 @@
     "release_date_raw": "Jul 21, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -259,7 +259,7 @@
     "release_date_raw": "Mar 21, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -283,7 +283,7 @@
     "release_date_raw": "Aug 26, 2025",
     "genres": "RPG",
     "categories": "Single-player;Game demo;Custom Volume Controls;Adjustable Difficulty;Playable without Timed Input;Save Anytime;Stereo Sound;Partial Controller Support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -307,7 +307,7 @@
     "release_date_raw": "Jan 24, 2025",
     "genres": "Adventure;Indie;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -367,7 +367,7 @@
     "release_date_raw": "Jan 10, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -415,7 +415,7 @@
     "release_date_raw": "Jul 27, 2025",
     "genres": "Adventure;Indie;Strategy",
     "categories": "Single-player;Game demo;Adjustable Difficulty;Playable without Timed Input",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -427,7 +427,7 @@
     "release_date_raw": "Jun 18, 2025",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -439,7 +439,7 @@
     "release_date_raw": "Aug 15, 2025",
     "genres": "Strategy",
     "categories": "Single-player;Game demo;Custom Volume Controls;Stereo Sound;Surround Sound",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -451,7 +451,7 @@
     "release_date_raw": "Jul 18, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -475,7 +475,7 @@
     "release_date_raw": "Feb 28, 2025",
     "genres": "Casual;Indie;RPG;Simulation;Free To Play",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -547,7 +547,7 @@
     "release_date_raw": "Jan 23, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -595,7 +595,7 @@
     "release_date_raw": "Sep 25, 2025",
     "genres": "Adventure;Casual",
     "categories": "Single-player;Game demo;Full controller support;Custom Volume Controls;Save Anytime;Stereo Sound",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -643,7 +643,7 @@
     "release_date_raw": "Feb 12, 2025",
     "genres": "Casual;Indie;Simulation;Free To Play",
     "categories": "Multi-player;PvP;Online PvP;Steam Achievements;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -667,7 +667,7 @@
     "release_date_raw": "Aug 20, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -715,7 +715,7 @@
     "release_date_raw": "Jan 26, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -751,7 +751,7 @@
     "release_date_raw": "Jan 8, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -787,7 +787,7 @@
     "release_date_raw": "Jan 20, 2025",
     "genres": "Indie;Strategy;Free To Play",
     "categories": "Multi-player;PvP;Online PvP",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -847,7 +847,7 @@
     "release_date_raw": "Jan 14, 2025",
     "genres": "Indie;Massively Multiplayer;Simulation;Strategy",
     "categories": "Multi-player;MMO;PvP;Online PvP;Co-op;Online Co-op;Cross-Platform Multiplayer;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -859,7 +859,7 @@
     "release_date_raw": "May 29, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -871,7 +871,7 @@
     "release_date_raw": "May 26, 2025",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -919,7 +919,7 @@
     "release_date_raw": "Sep 1, 2025",
     "genres": "Indie;Simulation",
     "categories": "Single-player;Steam Achievements;Full controller support;Adjustable Text Size;Adjustable Difficulty;Playable without Timed Input;Save Anytime;Stereo Sound;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -979,7 +979,7 @@
     "release_date_raw": "Jul 31, 2025",
     "genres": "Casual;Indie;Simulation;Free To Play",
     "categories": "Single-player;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1003,7 +1003,7 @@
     "release_date_raw": "May 25, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1039,7 +1039,7 @@
     "release_date_raw": "Feb 8, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1075,7 +1075,7 @@
     "release_date_raw": "Apr 8, 2025",
     "genres": "Action;Adventure",
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1087,7 +1087,7 @@
     "release_date_raw": "Jul 17, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1123,7 +1123,7 @@
     "release_date_raw": "Mar 24, 2025",
     "genres": "Action;Indie;Free To Play",
     "categories": "Single-player;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1159,7 +1159,7 @@
     "release_date_raw": "May 5, 2025",
     "genres": "Casual;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1219,7 +1219,7 @@
     "release_date_raw": "May 14, 2025",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1255,7 +1255,7 @@
     "release_date_raw": "Aug 7, 2025",
     "genres": "Action;Adventure;Casual;Indie",
     "categories": "Single-player;Game demo;Steam Achievements;Full controller support;Custom Volume Controls;Keyboard Only Option;Steam Cloud;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1315,7 +1315,7 @@
     "release_date_raw": "Mar 1, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1327,7 +1327,7 @@
     "release_date_raw": "Mar 12, 2025",
     "genres": "Casual;Free To Play",
     "categories": "Single-player;Downloadable Content",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1375,7 +1375,7 @@
     "release_date_raw": "Feb 16, 2025",
     "genres": "Action;Adventure;Casual;RPG;Strategy",
     "categories": "Single-player;Game demo;Steam Achievements;Steam Cloud;HDR available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1447,7 +1447,7 @@
     "release_date_raw": "May 30, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1531,7 +1531,7 @@
     "release_date_raw": "May 29, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Save Anytime;Stereo Sound",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1579,7 +1579,7 @@
     "release_date_raw": "Apr 12, 2025",
     "genres": "Action;Adventure;Indie;Massively Multiplayer;Free To Play",
     "categories": "Single-player;Multi-player;Co-op;Online Co-op;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1603,7 +1603,7 @@
     "release_date_raw": "May 28, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1639,7 +1639,7 @@
     "release_date_raw": "May 3, 2025",
     "genres": "Adventure;Casual;Indie;RPG",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1687,7 +1687,7 @@
     "release_date_raw": "Jun 7, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1699,7 +1699,7 @@
     "release_date_raw": "Feb 21, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1747,7 +1747,7 @@
     "release_date_raw": "May 27, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1759,7 +1759,7 @@
     "release_date_raw": "Jun 9, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Custom Volume Controls;Save Anytime",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1783,7 +1783,7 @@
     "release_date_raw": "Aug 23, 2025",
     "genres": "Action;Indie;Strategy",
     "categories": "Multi-player;Co-op;Online Co-op;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1807,7 +1807,7 @@
     "release_date_raw": "May 24, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1831,7 +1831,7 @@
     "release_date_raw": "Feb 6, 2025",
     "genres": "Action;RPG;Strategy;Free To Play",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Full controller support;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1867,7 +1867,7 @@
     "release_date_raw": "Jul 3, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1879,7 +1879,7 @@
     "release_date_raw": "Jan 28, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1903,7 +1903,7 @@
     "release_date_raw": "Aug 7, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support;Camera Comfort;Custom Volume Controls;Keyboard Only Option;Mouse Only Option;Playable without Timed Input;Save Anytime",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1915,7 +1915,7 @@
     "release_date_raw": "Feb 19, 2025",
     "genres": "Action;Adventure;Indie;RPG",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1927,7 +1927,7 @@
     "release_date_raw": "Jul 16, 2025",
     "genres": "Casual;Indie;Racing;Free To Play",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Full controller support;Playable without Timed Input",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -1975,7 +1975,7 @@
     "release_date_raw": "Jun 9, 2025",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2011,7 +2011,7 @@
     "release_date_raw": "Sep 29, 2025",
     "genres": "Casual;Indie;Strategy",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Steam Achievements;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2023,7 +2023,7 @@
     "release_date_raw": "Feb 24, 2025",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2047,7 +2047,7 @@
     "release_date_raw": "Jan 6, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2095,7 +2095,7 @@
     "release_date_raw": "Jun 5, 2025",
     "genres": "Adventure",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2107,7 +2107,7 @@
     "release_date_raw": "Feb 14, 2025",
     "genres": "Action;Indie",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2131,7 +2131,7 @@
     "release_date_raw": "Jun 20, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2155,7 +2155,7 @@
     "release_date_raw": "Mar 18, 2025",
     "genres": "Casual;Indie",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2179,7 +2179,7 @@
     "release_date_raw": "Mar 26, 2025",
     "genres": "Action;Adventure;Indie;Free To Play",
     "categories": "Single-player;Steam Achievements;Partial Controller Support;Includes level editor;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2191,7 +2191,7 @@
     "release_date_raw": "Jun 6, 2025",
     "genres": "Casual;Indie;Simulation;Sports;Free To Play",
     "categories": "Multi-player;PvP;Online PvP",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2203,7 +2203,7 @@
     "release_date_raw": "Feb 24, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2215,7 +2215,7 @@
     "release_date_raw": "Jun 9, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2239,7 +2239,7 @@
     "release_date_raw": "Jan 25, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2287,7 +2287,7 @@
     "release_date_raw": "Mar 2, 2025",
     "genres": "Casual;Indie",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2311,7 +2311,7 @@
     "release_date_raw": "Jul 9, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements;Full controller support;Playable without Timed Input;Stereo Sound;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2323,7 +2323,7 @@
     "release_date_raw": "May 13, 2025",
     "genres": "Action",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2359,7 +2359,7 @@
     "release_date_raw": "May 30, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2455,7 +2455,7 @@
     "release_date_raw": "Jul 1, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2527,7 +2527,7 @@
     "release_date_raw": "Aug 5, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2599,7 +2599,7 @@
     "release_date_raw": "Jun 20, 2025",
     "genres": "Action;Adventure;Indie;RPG",
     "categories": "Single-player;Game demo;Steam Achievements;Custom Volume Controls;Playable without Timed Input;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2611,7 +2611,7 @@
     "release_date_raw": "Feb 28, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2647,7 +2647,7 @@
     "release_date_raw": "Aug 12, 2025",
     "genres": "Simulation;Free To Play",
     "categories": "Single-player;Multi-player;Co-op;Online Co-op;Downloadable Content;Steam Achievements;Full controller support;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2659,7 +2659,7 @@
     "release_date_raw": "Mar 14, 2025",
     "genres": "Casual;Indie;Strategy",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2743,7 +2743,7 @@
     "release_date_raw": "Apr 23, 2025",
     "genres": "Action;Indie",
     "categories": "Single-player;Multi-player;Co-op;Online Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Full controller support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2791,7 +2791,7 @@
     "release_date_raw": "May 22, 2025",
     "genres": "Adventure;Casual;Indie;Free To Play",
     "categories": "Single-player;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2887,7 +2887,7 @@
     "release_date_raw": "Apr 2, 2025",
     "genres": "Casual;Indie;RPG;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2947,7 +2947,7 @@
     "release_date_raw": "Apr 23, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2971,7 +2971,7 @@
     "release_date_raw": "Feb 24, 2025",
     "genres": "Action;Casual;Indie;Massively Multiplayer;Racing;Simulation;Sports",
     "categories": "Single-player;Multi-player;MMO;PvP;Online PvP;Game demo;In-App Purchases;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2983,7 +2983,7 @@
     "release_date_raw": "Feb 28, 2025",
     "genres": "Action;Casual;Indie",
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -2995,7 +2995,7 @@
     "release_date_raw": "Aug 11, 2025",
     "genres": "Action;Casual;Indie;Racing;Free To Play",
     "categories": "Single-player;Multi-player;Co-op;Online Co-op",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3007,7 +3007,7 @@
     "release_date_raw": "Feb 23, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3019,7 +3019,7 @@
     "release_date_raw": "Jun 11, 2025",
     "genres": null,
     "categories": "Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3031,7 +3031,7 @@
     "release_date_raw": "Mar 24, 2025",
     "genres": "RPG;Free To Play",
     "categories": "Single-player;Multi-player;PvP;Online PvP;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3043,7 +3043,7 @@
     "release_date_raw": "Jul 1, 2025",
     "genres": "Indie;Strategy;Free To Play",
     "categories": "Single-player;Steam Achievements;Full controller support;Color Alternatives;Custom Volume Controls;Mouse Only Option;Playable without Timed Input;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3067,7 +3067,7 @@
     "release_date_raw": "Jan 14, 2025",
     "genres": "Action;Casual;Indie;Strategy;Free To Play;Early Access",
     "categories": "Multi-player;PvP;Online PvP",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3079,7 +3079,7 @@
     "release_date_raw": "Sep 4, 2025",
     "genres": "Indie;Simulation",
     "categories": "Single-player;Steam Achievements;Full controller support;Camera Comfort;Custom Volume Controls;Adjustable Difficulty;Playable without Timed Input;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3115,7 +3115,7 @@
     "release_date_raw": "Feb 19, 2025",
     "genres": "Action;Indie;Free To Play;Early Access",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3163,7 +3163,7 @@
     "release_date_raw": "Jan 29, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3175,7 +3175,7 @@
     "release_date_raw": "Jan 23, 2025",
     "genres": null,
     "categories": "Multi-player;PvP;Online PvP;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3187,7 +3187,7 @@
     "release_date_raw": "Aug 31, 2025",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Game demo;Custom Volume Controls;Mouse Only Option;Playable without Timed Input",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3211,7 +3211,7 @@
     "release_date_raw": "Apr 22, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3223,7 +3223,7 @@
     "release_date_raw": "Apr 28, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3235,7 +3235,7 @@
     "release_date_raw": "Jul 9, 2025",
     "genres": "Adventure;Indie;Strategy",
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Steam Achievements;Full controller support;Playable without Timed Input",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3271,7 +3271,7 @@
     "release_date_raw": "Feb 20, 2025",
     "genres": "Action;Adventure;Indie;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3307,7 +3307,7 @@
     "release_date_raw": "Jan 7, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3319,7 +3319,7 @@
     "release_date_raw": "Aug 26, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3331,7 +3331,7 @@
     "release_date_raw": "Sep 10, 2025",
     "genres": "Racing;Sports",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Remote Play Together;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3355,7 +3355,7 @@
     "release_date_raw": "May 18, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3379,7 +3379,7 @@
     "release_date_raw": "May 22, 2025",
     "genres": "Strategy",
     "categories": "Single-player;Multi-player;PvP;LAN PvP;Shared/Split Screen PvP;Shared/Split Screen;Game demo;Mouse Only Option;Playable without Timed Input;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3391,7 +3391,7 @@
     "release_date_raw": "Sep 26, 2025",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Custom Volume Controls;Keyboard Only Option;Mouse Only Option;Playable without Timed Input;Save Anytime;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3415,7 +3415,7 @@
     "release_date_raw": "Jun 17, 2025",
     "genres": "Action;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3451,7 +3451,7 @@
     "release_date_raw": "May 15, 2025",
     "genres": "Adventure;Indie;Free To Play",
     "categories": "Single-player;Steam Achievements;Full controller support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3475,7 +3475,7 @@
     "release_date_raw": "May 29, 2025",
     "genres": "Casual;Indie",
     "categories": "Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Shared/Split Screen;Game demo;Full controller support;Keyboard Only Option;Stereo Sound;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3499,7 +3499,7 @@
     "release_date_raw": "Jun 9, 2025",
     "genres": "Strategy",
     "categories": "Single-player;Multi-player;Co-op;Online Co-op;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3607,7 +3607,7 @@
     "release_date_raw": "Feb 21, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3667,7 +3667,7 @@
     "release_date_raw": "May 28, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3679,7 +3679,7 @@
     "release_date_raw": "Aug 25, 2025",
     "genres": "Adventure;Indie;Strategy;Free To Play",
     "categories": "Single-player;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3703,7 +3703,7 @@
     "release_date_raw": "Mar 28, 2025",
     "genres": "Simulation",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3739,7 +3739,7 @@
     "release_date_raw": "Feb 24, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support;Steam Cloud;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3751,7 +3751,7 @@
     "release_date_raw": "Mar 6, 2025",
     "genres": "Indie;Racing;Free To Play",
     "categories": "Single-player;Partial Controller Support;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3775,7 +3775,7 @@
     "release_date_raw": "Jun 30, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3823,7 +3823,7 @@
     "release_date_raw": "Jan 25, 2025",
     "genres": "Adventure;Casual;Indie;RPG;Simulation",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3835,7 +3835,7 @@
     "release_date_raw": "Apr 9, 2025",
     "genres": "Strategy",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3871,7 +3871,7 @@
     "release_date_raw": "May 23, 2025",
     "genres": "Adventure;Casual;Indie",
     "categories": "Single-player;Game demo;Full controller support;Custom Volume Controls;Playable without Timed Input",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3931,7 +3931,7 @@
     "release_date_raw": "Jun 19, 2025",
     "genres": "Action;Massively Multiplayer;RPG;Simulation;Free To Play",
     "categories": "Multi-player;MMO;PvP;Online PvP;Co-op;Online Co-op;In-App Purchases;Camera Comfort;Mouse Only Option;Save Anytime",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -3991,7 +3991,7 @@
     "release_date_raw": "Aug 8, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4003,7 +4003,7 @@
     "release_date_raw": "May 26, 2025",
     "genres": "Action;Casual;Indie;Strategy",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4015,7 +4015,7 @@
     "release_date_raw": "Jun 10, 2025",
     "genres": "Action;Adventure;Casual;Indie;Strategy",
     "categories": "Single-player;Game demo;Full controller support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4051,7 +4051,7 @@
     "release_date_raw": "Jan 10, 2025",
     "genres": "Action;Adventure;Indie",
     "categories": "Single-player;Game demo;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4075,7 +4075,7 @@
     "release_date_raw": "Jun 6, 2025",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4111,7 +4111,7 @@
     "release_date_raw": "Jun 16, 2025",
     "genres": "Action;Adventure;Indie;Simulation",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4147,7 +4147,7 @@
     "release_date_raw": "Feb 24, 2025",
     "genres": "Simulation",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4183,7 +4183,7 @@
     "release_date_raw": "Sep 2, 2025",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Steam Achievements;Full controller support;Camera Comfort;Color Alternatives;Custom Volume Controls;Adjustable Difficulty;Keyboard Only Option;Playable without Timed Input;Save Anytime;Stereo Sound;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4207,7 +4207,7 @@
     "release_date_raw": "Nov 7, 2025",
     "genres": "Action;Casual;Indie",
     "categories": "Single-player;Steam Achievements;Full controller support;Camera Comfort;Custom Volume Controls;Adjustable Difficulty;Playable without Timed Input;Save Anytime;Stereo Sound;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4219,7 +4219,7 @@
     "release_date_raw": "Feb 23, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4291,7 +4291,7 @@
     "release_date_raw": "Jun 9, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4303,7 +4303,7 @@
     "release_date_raw": "Sep 10, 2025",
     "genres": "Action;Adventure;RPG;Early Access",
     "categories": "Single-player;Full controller support;Custom Volume Controls;Adjustable Difficulty;Keyboard Only Option;Save Anytime;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4315,7 +4315,7 @@
     "release_date_raw": "Apr 10, 2025",
     "genres": "Action;Indie",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4339,7 +4339,7 @@
     "release_date_raw": "Apr 22, 2025",
     "genres": "Adventure;RPG",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4363,7 +4363,7 @@
     "release_date_raw": "Jan 14, 2025",
     "genres": "Action;Adventure;Casual;Indie;Free To Play",
     "categories": "Single-player;Downloadable Content;Full controller support;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4399,7 +4399,7 @@
     "release_date_raw": "May 20, 2025",
     "genres": "Adventure;RPG;Simulation",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4411,7 +4411,7 @@
     "release_date_raw": "May 1, 2025",
     "genres": "Action;Adventure;Casual;Indie;Free To Play",
     "categories": "Single-player;Downloadable Content;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4435,7 +4435,7 @@
     "release_date_raw": "Jul 25, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4447,7 +4447,7 @@
     "release_date_raw": "Feb 14, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4495,7 +4495,7 @@
     "release_date_raw": "Jan 9, 2025",
     "genres": "Action;Casual;Indie;Free To Play",
     "categories": "Single-player;Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Partial Controller Support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4519,7 +4519,7 @@
     "release_date_raw": "Jun 3, 2025",
     "genres": "Indie;Strategy",
     "categories": "Single-player;Game demo;Full controller support;Camera Comfort;Custom Volume Controls;Mouse Only Option;Playable without Timed Input;Save Anytime",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4531,7 +4531,7 @@
     "release_date_raw": "May 30, 2025",
     "genres": "Adventure;Casual;Indie;RPG;Simulation;Strategy",
     "categories": "Single-player;Game demo;Camera Comfort;Color Alternatives;Custom Volume Controls;Adjustable Difficulty;Mouse Only Option;Playable without Timed Input;Save Anytime;Stereo Sound;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4543,7 +4543,7 @@
     "release_date_raw": "Jul 7, 2025",
     "genres": null,
     "categories": "Multi-player;PvP;Online PvP;Co-op;Online Co-op;Game demo;Camera Comfort;Custom Volume Controls;Playable without Timed Input;Stereo Sound;Surround Sound;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4555,7 +4555,7 @@
     "release_date_raw": "Sep 25, 2025",
     "genres": "RPG;Strategy",
     "categories": "Single-player;Steam Achievements;Partial Controller Support;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4567,7 +4567,7 @@
     "release_date_raw": "Feb 14, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4591,7 +4591,7 @@
     "release_date_raw": "Mar 6, 2025",
     "genres": "Action;Free To Play",
     "categories": "Multi-player;PvP;Online PvP;Co-op;Online Co-op;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4627,7 +4627,7 @@
     "release_date_raw": "Mar 9, 2025",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4699,7 +4699,7 @@
     "release_date_raw": "Jun 14, 2025",
     "genres": "Casual;RPG;Strategy;Free To Play",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Cross-Platform Multiplayer;Steam Achievements;In-App Purchases;Adjustable Text Size;Camera Comfort;Custom Volume Controls;Playable without Timed Input;Stereo Sound;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4711,7 +4711,7 @@
     "release_date_raw": "Feb 7, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4723,7 +4723,7 @@
     "release_date_raw": "Dec 1, 2025",
     "genres": "Action;Adventure;Indie;RPG",
     "categories": "Single-player;Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Steam Achievements;Full controller support;Steam Cloud;Remote Play Together;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4735,7 +4735,7 @@
     "release_date_raw": "Feb 12, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4747,7 +4747,7 @@
     "release_date_raw": "May 29, 2025",
     "genres": "Action;Casual;Indie;RPG",
     "categories": "Single-player;Game demo;Steam Achievements;Full controller support;Camera Comfort;Custom Volume Controls;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4771,7 +4771,7 @@
     "release_date_raw": "Apr 9, 2025",
     "genres": "Free To Play",
     "categories": "Additional High-Quality Audio",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4795,7 +4795,7 @@
     "release_date_raw": "Feb 23, 2025",
     "genres": "Adventure;Casual;Indie;Strategy;Free To Play",
     "categories": "Single-player;Game demo;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4807,7 +4807,7 @@
     "release_date_raw": "May 16, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4831,7 +4831,7 @@
     "release_date_raw": "Apr 25, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4855,7 +4855,7 @@
     "release_date_raw": "Jul 30, 2025",
     "genres": "Casual;Indie;Strategy",
     "categories": "Single-player;Game demo;Full controller support;Custom Volume Controls;Keyboard Only Option;Mouse Only Option;Playable without Timed Input;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4867,7 +4867,7 @@
     "release_date_raw": "Jun 17, 2025",
     "genres": "Casual;Indie;Strategy;Free To Play",
     "categories": "Single-player;Multi-player;PvP;Online PvP;LAN PvP;Custom Volume Controls;Mouse Only Option;Playable without Timed Input;Touch Only Option",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4891,7 +4891,7 @@
     "release_date_raw": "Oct 7, 2025",
     "genres": "Action",
     "categories": "Single-player;Full controller support;Camera Comfort;Color Alternatives;Adjustable Difficulty;Keyboard Only Option;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4903,7 +4903,7 @@
     "release_date_raw": "Sep 10, 2025",
     "genres": "Simulation;Strategy",
     "categories": "Single-player;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4915,7 +4915,7 @@
     "release_date_raw": "Mar 12, 2025",
     "genres": "Casual;Free To Play",
     "categories": "Single-player;Downloadable Content",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4927,7 +4927,7 @@
     "release_date_raw": "Jun 12, 2025",
     "genres": "Simulation",
     "categories": "Single-player;Game demo;Custom Volume Controls;Playable without Timed Input;Stereo Sound",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4975,7 +4975,7 @@
     "release_date_raw": "Apr 4, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -4987,7 +4987,7 @@
     "release_date_raw": "May 30, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Captions available;Adjustable Text Size;Custom Volume Controls;Save Anytime;Subtitle Options;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5011,7 +5011,7 @@
     "release_date_raw": "Jan 26, 2025",
     "genres": "Casual;Indie;Simulation",
     "categories": "Single-player;Game demo;Custom Volume Controls;Mouse Only Option;Save Anytime",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5023,7 +5023,7 @@
     "release_date_raw": "Dec 21, 2025",
     "genres": "Action;Adventure;Casual;Indie;RPG;Strategy",
     "categories": "Single-player;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5059,7 +5059,7 @@
     "release_date_raw": "Jun 12, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements;Custom Volume Controls;Narrated Game Menus;Playable without Timed Input;Save Anytime;Stereo Sound;Subtitle Options",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5071,7 +5071,7 @@
     "release_date_raw": "Jul 30, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5083,7 +5083,7 @@
     "release_date_raw": "Jul 26, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5095,7 +5095,7 @@
     "release_date_raw": "May 3, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5131,7 +5131,7 @@
     "release_date_raw": "Apr 15, 2025",
     "genres": "Adventure;Casual;Simulation;Free To Play",
     "categories": "Single-player;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5179,7 +5179,7 @@
     "release_date_raw": "May 26, 2025",
     "genres": "Casual;Indie;RPG",
     "categories": "Single-player;Game demo;Steam Achievements;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5191,7 +5191,7 @@
     "release_date_raw": "Aug 20, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5203,7 +5203,7 @@
     "release_date_raw": "Jun 8, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Custom Volume Controls;Mouse Only Option;Playable without Timed Input;Save Anytime;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5215,7 +5215,7 @@
     "release_date_raw": "Jan 30, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5239,7 +5239,7 @@
     "release_date_raw": "Jun 27, 2025",
     "genres": "Action;Indie",
     "categories": "Single-player;Game demo;Full controller support;Custom Volume Controls;Keyboard Only Option;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5263,7 +5263,7 @@
     "release_date_raw": "Feb 22, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5275,7 +5275,7 @@
     "release_date_raw": "Nov 27, 2025",
     "genres": "Indie;RPG",
     "categories": "Single-player;Full controller support;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5287,7 +5287,7 @@
     "release_date_raw": "Mar 6, 2025",
     "genres": "Indie;Strategy",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5299,7 +5299,7 @@
     "release_date_raw": "Jun 26, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Partial Controller Support;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5347,7 +5347,7 @@
     "release_date_raw": "Aug 8, 2025",
     "genres": "Indie;Strategy;Free To Play",
     "categories": "Multi-player;PvP;Online PvP;Cross-Platform Multiplayer;Custom Volume Controls;Mouse Only Option",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5359,7 +5359,7 @@
     "release_date_raw": "Feb 17, 2025",
     "genres": "Action;Casual",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5383,7 +5383,7 @@
     "release_date_raw": "Jul 31, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5395,7 +5395,7 @@
     "release_date_raw": "Jan 22, 2025",
     "genres": "Adventure;RPG",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5455,7 +5455,7 @@
     "release_date_raw": "May 22, 2025",
     "genres": null,
     "categories": "Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Co-op;Online Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Steam Achievements;Full controller support;Steam Cloud;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5491,7 +5491,7 @@
     "release_date_raw": "May 23, 2025",
     "genres": null,
     "categories": "Single-player;Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Game demo;Full controller support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5503,7 +5503,7 @@
     "release_date_raw": "Mar 11, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5515,7 +5515,7 @@
     "release_date_raw": "Jun 1, 2025",
     "genres": "Adventure;RPG;Strategy",
     "categories": "Single-player;Game demo;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5527,7 +5527,7 @@
     "release_date_raw": "Aug 27, 2025",
     "genres": "Massively Multiplayer;RPG;Simulation;Strategy;Early Access",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Cross-Platform Multiplayer;Steam Achievements;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5575,7 +5575,7 @@
     "release_date_raw": "May 26, 2025",
     "genres": "Action;Indie;Racing",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5587,7 +5587,7 @@
     "release_date_raw": "Jan 28, 2025",
     "genres": "Adventure;Casual;Indie;Free To Play",
     "categories": "Single-player;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5599,7 +5599,7 @@
     "release_date_raw": "Jun 8, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5635,7 +5635,7 @@
     "release_date_raw": "Jun 4, 2025",
     "genres": "Casual;Simulation",
     "categories": "Single-player;Game demo;Custom Volume Controls;Playable without Timed Input",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5647,7 +5647,7 @@
     "release_date_raw": "May 14, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5659,7 +5659,7 @@
     "release_date_raw": "Jul 25, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support;Playable without Timed Input;Stereo Sound",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5707,7 +5707,7 @@
     "release_date_raw": "Jun 6, 2025",
     "genres": "Casual;Indie;Sports",
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5719,7 +5719,7 @@
     "release_date_raw": "Feb 4, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5731,7 +5731,7 @@
     "release_date_raw": "Sep 12, 2025",
     "genres": "Indie;Simulation;Strategy",
     "categories": "Single-player;Steam Achievements;Custom Volume Controls;Adjustable Difficulty;Playable without Timed Input;Stereo Sound;Surround Sound;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5755,7 +5755,7 @@
     "release_date_raw": "Oct 30, 2025",
     "genres": "Action;Strategy",
     "categories": "Single-player;Steam Achievements;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5839,7 +5839,7 @@
     "release_date_raw": "Feb 6, 2025",
     "genres": "Action;Indie;Free To Play",
     "categories": "Single-player;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5863,7 +5863,7 @@
     "release_date_raw": "Jun 6, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5959,7 +5959,7 @@
     "release_date_raw": "May 17, 2025",
     "genres": "Casual;Indie;Strategy;Free To Play",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Full controller support;Adjustable Difficulty;Keyboard Only Option;Mouse Only Option;Playable without Timed Input;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5983,7 +5983,7 @@
     "release_date_raw": "Mar 21, 2025",
     "genres": "Simulation",
     "categories": "Single-player;Game demo;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -5995,7 +5995,7 @@
     "release_date_raw": "Jan 22, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6007,7 +6007,7 @@
     "release_date_raw": "Aug 5, 2025",
     "genres": "Casual;Indie;Simulation;Free To Play;Early Access",
     "categories": "Single-player;Steam Achievements;Color Alternatives;Custom Volume Controls;Mouse Only Option;Stats",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6019,7 +6019,7 @@
     "release_date_raw": "Apr 17, 2025",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6043,7 +6043,7 @@
     "release_date_raw": "Sep 4, 2025",
     "genres": "Casual;Indie;Simulation",
     "categories": "Single-player;Steam Achievements;Full controller support;Custom Volume Controls;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6067,7 +6067,7 @@
     "release_date_raw": "Mar 21, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6079,7 +6079,7 @@
     "release_date_raw": "Jun 18, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6091,7 +6091,7 @@
     "release_date_raw": "Jun 18, 2025",
     "genres": "Adventure;Casual;Indie;Strategy;Free To Play",
     "categories": "Multi-player;PvP;Online PvP;VR Only;In-App Purchases;Custom Volume Controls;Playable without Timed Input;Stereo Sound",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6127,7 +6127,7 @@
     "release_date_raw": "Jul 23, 2025",
     "genres": "Indie;Strategy",
     "categories": "Single-player;Game demo;Steam Achievements;Camera Comfort;Custom Volume Controls;Mouse Only Option;Playable without Timed Input;Save Anytime;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6139,7 +6139,7 @@
     "release_date_raw": "Sep 10, 2025",
     "genres": "Free To Play;Utilities;Early Access",
     "categories": "Camera Comfort;Color Alternatives;Keyboard Only Option;Mouse Only Option;Playable without Timed Input;Touch Only Option;Partial Controller Support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6163,7 +6163,7 @@
     "release_date_raw": "Jun 19, 2025",
     "genres": "Adventure;Casual;Indie;Simulation;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6187,7 +6187,7 @@
     "release_date_raw": "Mar 27, 2025",
     "genres": "Casual;Simulation;Strategy",
     "categories": "Multi-player;PvP;Online PvP;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6211,7 +6211,7 @@
     "release_date_raw": "Feb 1, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6223,7 +6223,7 @@
     "release_date_raw": "Jan 9, 2025",
     "genres": null,
     "categories": "Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6247,7 +6247,7 @@
     "release_date_raw": "Jan 27, 2025",
     "genres": "Action;Adventure;Indie;RPG",
     "categories": "Single-player;Game demo;Full controller support;Camera Comfort;Custom Volume Controls;Keyboard Only Option;Stereo Sound",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6295,7 +6295,7 @@
     "release_date_raw": "Aug 12, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6307,7 +6307,7 @@
     "release_date_raw": "Jun 5, 2025",
     "genres": "Indie",
     "categories": "Single-player;Game demo;Full controller support;Custom Volume Controls;Playable without Timed Input",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6391,7 +6391,7 @@
     "release_date_raw": "Apr 21, 2025",
     "genres": "Indie;RPG;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6427,7 +6427,7 @@
     "release_date_raw": "Sep 1, 2025",
     "genres": "Adventure;Indie;Simulation",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6439,7 +6439,7 @@
     "release_date_raw": "Feb 22, 2025",
     "genres": "Action;Casual;Indie;Simulation",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6451,7 +6451,7 @@
     "release_date_raw": "Aug 25, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support;Custom Volume Controls;Keyboard Only Option;Playable without Timed Input;Stereo Sound",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6547,7 +6547,7 @@
     "release_date_raw": "Mar 20, 2025",
     "genres": "Action;Adventure;Indie;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6571,7 +6571,7 @@
     "release_date_raw": "Apr 20, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6583,7 +6583,7 @@
     "release_date_raw": "Jan 27, 2025",
     "genres": "Simulation",
     "categories": "Single-player;Multi-player;Co-op;Online Co-op;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6595,7 +6595,7 @@
     "release_date_raw": "Feb 24, 2025",
     "genres": "Action;Indie;Sports",
     "categories": "Multi-player;PvP;Online PvP;Co-op;Online Co-op;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6607,7 +6607,7 @@
     "release_date_raw": "Jun 3, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6619,7 +6619,7 @@
     "release_date_raw": "May 13, 2025",
     "genres": "Action;Adventure;Casual;Indie;Massively Multiplayer;RPG;Free To Play;Early Access",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Co-op;Online Co-op;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6631,7 +6631,7 @@
     "release_date_raw": "Apr 11, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6679,7 +6679,7 @@
     "release_date_raw": "Oct 14, 2025",
     "genres": "Action;Indie",
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Full controller support;Remote Play Together;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6691,7 +6691,7 @@
     "release_date_raw": "May 29, 2025",
     "genres": "Strategy",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6739,7 +6739,7 @@
     "release_date_raw": "Feb 23, 2025",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6775,7 +6775,7 @@
     "release_date_raw": "May 14, 2025",
     "genres": "Adventure;Casual;RPG;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6811,7 +6811,7 @@
     "release_date_raw": "Apr 3, 2025",
     "genres": "Adventure;Casual;Massively Multiplayer;RPG;Simulation;Strategy;Free To Play",
     "categories": "Single-player;Multi-player;MMO;PvP;Online PvP;Co-op;Online Co-op;Downloadable Content;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6835,7 +6835,7 @@
     "release_date_raw": "Jul 15, 2025",
     "genres": null,
     "categories": "Game demo;Custom Volume Controls;Playable without Timed Input;Stereo Sound",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6847,7 +6847,7 @@
     "release_date_raw": "May 22, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6859,7 +6859,7 @@
     "release_date_raw": "May 2, 2025",
     "genres": "Casual;Indie;Simulation",
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6895,7 +6895,7 @@
     "release_date_raw": "Jan 20, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6943,7 +6943,7 @@
     "release_date_raw": "Jan 7, 2025",
     "genres": "Casual",
     "categories": "Single-player;Game demo;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -6955,7 +6955,7 @@
     "release_date_raw": "May 28, 2025",
     "genres": "Action;Indie;Strategy",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Game demo;Full controller support;Custom Volume Controls;Keyboard Only Option",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7027,7 +7027,7 @@
     "release_date_raw": "Feb 24, 2025",
     "genres": "Massively Multiplayer",
     "categories": "Multi-player;MMO;PvP;Online PvP;LAN PvP;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7147,7 +7147,7 @@
     "release_date_raw": "Jun 6, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements;Custom Volume Controls;Keyboard Only Option;Stereo Sound;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7171,7 +7171,7 @@
     "release_date_raw": "Mar 8, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7195,7 +7195,7 @@
     "release_date_raw": "Jun 10, 2025",
     "genres": "Casual;Indie;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7243,7 +7243,7 @@
     "release_date_raw": "May 29, 2025",
     "genres": "RPG;Free To Play",
     "categories": "Multi-player;In-App Purchases;Remote Play on Phone;Remote Play on Tablet",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7255,7 +7255,7 @@
     "release_date_raw": "Sep 26, 2025",
     "genres": "Action;Indie",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Co-op;Online Co-op;Steam Achievements;Custom Volume Controls;Playable without Timed Input;Stereo Sound;Stats;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7279,7 +7279,7 @@
     "release_date_raw": "Mar 3, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7291,7 +7291,7 @@
     "release_date_raw": "Apr 25, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7303,7 +7303,7 @@
     "release_date_raw": "May 10, 2025",
     "genres": "Casual;Indie",
     "categories": "Single-player;Game demo;Camera Comfort;Custom Volume Controls;Mouse Only Option",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7327,7 +7327,7 @@
     "release_date_raw": "Aug 24, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support;Custom Volume Controls;Playable without Timed Input;Stereo Sound;Surround Sound;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7351,7 +7351,7 @@
     "release_date_raw": "May 27, 2025",
     "genres": "Action;Adventure;Indie;Simulation",
     "categories": "Single-player;Game demo;Camera Comfort;Custom Volume Controls;Adjustable Difficulty;Playable without Timed Input;Save Anytime;Stereo Sound",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7375,7 +7375,7 @@
     "release_date_raw": "Aug 6, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7447,7 +7447,7 @@
     "release_date_raw": "Mar 9, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7459,7 +7459,7 @@
     "release_date_raw": "Sep 5, 2025",
     "genres": "Adventure;Indie;Free To Play",
     "categories": "Single-player;Full controller support;Custom Volume Controls;Save Anytime",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7483,7 +7483,7 @@
     "release_date_raw": "May 23, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7507,7 +7507,7 @@
     "release_date_raw": "Feb 24, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7519,7 +7519,7 @@
     "release_date_raw": "Mar 15, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7531,7 +7531,7 @@
     "release_date_raw": "Jul 25, 2025",
     "genres": "Action;Casual;Indie;Free To Play",
     "categories": "Single-player;Steam Achievements;Custom Volume Controls;Playable without Timed Input;Partial Controller Support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7567,7 +7567,7 @@
     "release_date_raw": "Jun 4, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7627,7 +7627,7 @@
     "release_date_raw": "May 6, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7651,7 +7651,7 @@
     "release_date_raw": "Apr 19, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7723,7 +7723,7 @@
     "release_date_raw": "Feb 18, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7735,7 +7735,7 @@
     "release_date_raw": "Feb 24, 2025",
     "genres": null,
     "categories": "Single-player;Multi-player;Co-op;Online Co-op;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7759,7 +7759,7 @@
     "release_date_raw": "May 29, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support;Keyboard Only Option;Playable without Timed Input;Stereo Sound",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7783,7 +7783,7 @@
     "release_date_raw": "Apr 30, 2025",
     "genres": "Casual;Indie;Strategy",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7795,7 +7795,7 @@
     "release_date_raw": "May 30, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7807,7 +7807,7 @@
     "release_date_raw": "Jul 24, 2025",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7843,7 +7843,7 @@
     "release_date_raw": "Aug 16, 2025",
     "genres": "Adventure;Casual;Indie;Free To Play",
     "categories": "Single-player;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7891,7 +7891,7 @@
     "release_date_raw": "Jun 27, 2025",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7915,7 +7915,7 @@
     "release_date_raw": "Aug 8, 2025",
     "genres": "Strategy;Free To Play",
     "categories": "Single-player;Downloadable Content;Adjustable Text Size;Keyboard Only Option;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -7975,7 +7975,7 @@
     "release_date_raw": "Aug 20, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8023,7 +8023,7 @@
     "release_date_raw": "May 21, 2025",
     "genres": "Indie;Simulation;Free To Play",
     "categories": "Single-player;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8035,7 +8035,7 @@
     "release_date_raw": "Aug 1, 2025",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8047,7 +8047,7 @@
     "release_date_raw": "Mar 16, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8131,7 +8131,7 @@
     "release_date_raw": "Jan 21, 2025",
     "genres": "Action;Free To Play",
     "categories": "Single-player;Steam Achievements;Partial Controller Support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8155,7 +8155,7 @@
     "release_date_raw": "Feb 8, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8167,7 +8167,7 @@
     "release_date_raw": "Apr 25, 2025",
     "genres": "Casual;Indie;Free To Play",
     "categories": "Single-player;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8179,7 +8179,7 @@
     "release_date_raw": "Sep 24, 2025",
     "genres": "Adventure;Casual;Indie",
     "categories": "Single-player;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8227,7 +8227,7 @@
     "release_date_raw": "Aug 7, 2025",
     "genres": "Indie;Strategy",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8239,7 +8239,7 @@
     "release_date_raw": "Feb 6, 2025",
     "genres": "Action;Indie",
     "categories": "Single-player;Game demo;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8251,7 +8251,7 @@
     "release_date_raw": "Sep 11, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements;Camera Comfort;Custom Volume Controls;Adjustable Difficulty;Playable without Timed Input;Stereo Sound;Surround Sound;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8275,7 +8275,7 @@
     "release_date_raw": "Apr 24, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8287,7 +8287,7 @@
     "release_date_raw": "May 1, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8323,7 +8323,7 @@
     "release_date_raw": "Jan 23, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8371,7 +8371,7 @@
     "release_date_raw": "Aug 25, 2025",
     "genres": "Action;Adventure",
     "categories": "Single-player;Game demo;Full controller support;Camera Comfort;Custom Volume Controls;Playable without Timed Input;Stereo Sound",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8395,7 +8395,7 @@
     "release_date_raw": "Mar 12, 2025",
     "genres": "Strategy",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8407,7 +8407,7 @@
     "release_date_raw": "Feb 28, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8419,7 +8419,7 @@
     "release_date_raw": "Feb 5, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8455,7 +8455,7 @@
     "release_date_raw": "Feb 12, 2025",
     "genres": null,
     "categories": "Single-player;Multi-player;PvP;Online PvP;Game demo;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8467,7 +8467,7 @@
     "release_date_raw": "Nov 14, 2025",
     "genres": "Casual",
     "categories": "Single-player;Steam Achievements;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8479,7 +8479,7 @@
     "release_date_raw": "Jan 9, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8515,7 +8515,7 @@
     "release_date_raw": "Apr 15, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8527,7 +8527,7 @@
     "release_date_raw": "Jun 26, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8551,7 +8551,7 @@
     "release_date_raw": "Feb 9, 2025",
     "genres": "Casual;Indie;Free To Play",
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Steam Achievements;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8563,7 +8563,7 @@
     "release_date_raw": "May 29, 2025",
     "genres": null,
     "categories": "Game demo;Custom Volume Controls;Mouse Only Option;Playable without Timed Input;Save Anytime",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8599,7 +8599,7 @@
     "release_date_raw": "Jan 27, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8611,7 +8611,7 @@
     "release_date_raw": "Sep 1, 2025",
     "genres": "Action;Adventure;Indie;RPG;Strategy;Free To Play;Early Access",
     "categories": "Single-player;Steam Achievements;Stats",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8623,7 +8623,7 @@
     "release_date_raw": "Jul 17, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8635,7 +8635,7 @@
     "release_date_raw": "Jun 18, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8647,7 +8647,7 @@
     "release_date_raw": "Feb 13, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8659,7 +8659,7 @@
     "release_date_raw": "Apr 22, 2025",
     "genres": "Adventure;Indie;Strategy;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8671,7 +8671,7 @@
     "release_date_raw": "May 15, 2025",
     "genres": "Action",
     "categories": "Single-player;Game demo;Full controller support;Mouse Only Option;Playable without Timed Input;Touch Only Option",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8719,7 +8719,7 @@
     "release_date_raw": "Sep 26, 2025",
     "genres": "Action;Adventure;Casual;Indie;RPG;Simulation",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Steam Trading Cards;Captions available;Custom Volume Controls;Adjustable Difficulty;Mouse Only Option;Save Anytime;Stereo Sound;Subtitle Options;Steam Cloud;Stats;Includes level editor;Remote Play on Tablet;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8743,7 +8743,7 @@
     "release_date_raw": "May 30, 2025",
     "genres": "Action;Adventure;Indie;RPG",
     "categories": "Single-player;Game demo;Adjustable Text Size;Camera Comfort;Custom Volume Controls;Adjustable Difficulty;Playable without Timed Input;Save Anytime;Stereo Sound;Subtitle Options",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8755,7 +8755,7 @@
     "release_date_raw": "Apr 25, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8791,7 +8791,7 @@
     "release_date_raw": "May 15, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8839,7 +8839,7 @@
     "release_date_raw": "Jun 8, 2025",
     "genres": "RPG;Strategy",
     "categories": "Single-player;Game demo;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8923,7 +8923,7 @@
     "release_date_raw": "Aug 30, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8935,7 +8935,7 @@
     "release_date_raw": "Aug 6, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8947,7 +8947,7 @@
     "release_date_raw": "Mar 21, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -8971,7 +8971,7 @@
     "release_date_raw": "Oct 17, 2025",
     "genres": "Action;Adventure;Indie;Strategy",
     "categories": "Single-player;Full controller support;Includes level editor;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9007,7 +9007,7 @@
     "release_date_raw": "Mar 10, 2025",
     "genres": "Action;Adventure;Indie;RPG;Strategy",
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9031,7 +9031,7 @@
     "release_date_raw": "May 28, 2025",
     "genres": "Casual;Indie;Strategy",
     "categories": "Single-player;Game demo;Custom Volume Controls;Playable without Timed Input;Stereo Sound",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9079,7 +9079,7 @@
     "release_date_raw": "Nov 17, 2025",
     "genres": "Adventure;Casual;Indie;RPG;Early Access",
     "categories": "Single-player;Steam Achievements;Captions available;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9091,7 +9091,7 @@
     "release_date_raw": "Feb 6, 2025",
     "genres": "Action;Indie;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9115,7 +9115,7 @@
     "release_date_raw": "Aug 29, 2025",
     "genres": "Simulation;Strategy;Free To Play",
     "categories": "Single-player;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9127,7 +9127,7 @@
     "release_date_raw": "Oct 31, 2025",
     "genres": "Action;Casual;Indie",
     "categories": "Single-player;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9175,7 +9175,7 @@
     "release_date_raw": "Jul 29, 2025",
     "genres": "Adventure;Indie;Free To Play",
     "categories": "Single-player;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9187,7 +9187,7 @@
     "release_date_raw": "Jul 23, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9199,7 +9199,7 @@
     "release_date_raw": "Jun 16, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9259,7 +9259,7 @@
     "release_date_raw": "Mar 17, 2025",
     "genres": "Action;Indie;Free To Play",
     "categories": "Single-player;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9307,7 +9307,7 @@
     "release_date_raw": "May 19, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9319,7 +9319,7 @@
     "release_date_raw": "Aug 15, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9355,7 +9355,7 @@
     "release_date_raw": "Jun 21, 2025",
     "genres": "Casual;Indie;RPG;Free To Play",
     "categories": "Single-player;Steam Achievements;Full controller support;Color Alternatives;Custom Volume Controls;Keyboard Only Option;Includes level editor",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9367,7 +9367,7 @@
     "release_date_raw": "Jul 7, 2025",
     "genres": null,
     "categories": "Multi-player;PvP;Online PvP;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9379,7 +9379,7 @@
     "release_date_raw": "Feb 10, 2025",
     "genres": null,
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Full controller support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9451,7 +9451,7 @@
     "release_date_raw": "Jan 30, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9487,7 +9487,7 @@
     "release_date_raw": "May 1, 2025",
     "genres": "Action;Adventure;Indie;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9499,7 +9499,7 @@
     "release_date_raw": "Aug 11, 2025",
     "genres": "Action;Adventure;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9547,7 +9547,7 @@
     "release_date_raw": "Jan 16, 2025",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9559,7 +9559,7 @@
     "release_date_raw": "Aug 28, 2025",
     "genres": "Casual;Indie;Free To Play",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9583,7 +9583,7 @@
     "release_date_raw": "Jun 20, 2025",
     "genres": null,
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Custom Volume Controls;Playable without Timed Input;Save Anytime;Partial Controller Support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9607,7 +9607,7 @@
     "release_date_raw": "Mar 28, 2025",
     "genres": "Adventure;Casual;Indie;RPG;Simulation;Strategy;Free To Play",
     "categories": "Single-player;Downloadable Content;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9619,7 +9619,7 @@
     "release_date_raw": "Mar 28, 2025",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9631,7 +9631,7 @@
     "release_date_raw": "Mar 7, 2025",
     "genres": "Action;Adventure;Casual;RPG",
     "categories": "Single-player;Game demo;Partial Controller Support;HDR available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9655,7 +9655,7 @@
     "release_date_raw": "Mar 5, 2025",
     "genres": null,
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Full controller support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9691,7 +9691,7 @@
     "release_date_raw": "Jan 26, 2025",
     "genres": "Casual;Indie;Strategy;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9703,7 +9703,7 @@
     "release_date_raw": "May 28, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9739,7 +9739,7 @@
     "release_date_raw": "Oct 28, 2025",
     "genres": "Indie;Strategy",
     "categories": "Single-player;Custom Volume Controls;Mouse Only Option;Save Anytime;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9751,7 +9751,7 @@
     "release_date_raw": "Jun 5, 2025",
     "genres": "Action;Indie",
     "categories": "Single-player;Game demo;Full controller support;Camera Comfort;Custom Volume Controls;Keyboard Only Option;Stereo Sound",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9799,7 +9799,7 @@
     "release_date_raw": "Oct 23, 2025",
     "genres": "Action;Adventure;Casual;Indie",
     "categories": "Single-player;Steam Achievements;Partial Controller Support;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9811,7 +9811,7 @@
     "release_date_raw": "Feb 13, 2025",
     "genres": "Indie;Massively Multiplayer;RPG;Simulation;Strategy;Free To Play",
     "categories": "Single-player;Multi-player;MMO;Steam Achievements;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9859,7 +9859,7 @@
     "release_date_raw": "Apr 11, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9883,7 +9883,7 @@
     "release_date_raw": "Jun 10, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9907,7 +9907,7 @@
     "release_date_raw": "Sep 5, 2025",
     "genres": "Action;Adventure;Casual;Indie",
     "categories": "Single-player;Steam Achievements;Camera Comfort;Custom Volume Controls;Keyboard Only Option;Playable without Timed Input;Partial Controller Support;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9919,7 +9919,7 @@
     "release_date_raw": "Nov 13, 2025",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Steam Achievements;Partial Controller Support;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9931,7 +9931,7 @@
     "release_date_raw": "Mar 28, 2025",
     "genres": "Casual;Indie",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9967,7 +9967,7 @@
     "release_date_raw": "Feb 18, 2025",
     "genres": "Adventure;Indie;RPG;Simulation;Strategy;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9979,7 +9979,7 @@
     "release_date_raw": "Jul 5, 2025",
     "genres": "Indie",
     "categories": "Single-player;Steam Achievements;Steam Cloud;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -9991,7 +9991,7 @@
     "release_date_raw": "Jul 22, 2025",
     "genres": "Action;Casual;Indie;Free To Play",
     "categories": "Single-player;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10003,7 +10003,7 @@
     "release_date_raw": "Feb 18, 2025",
     "genres": "Indie",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10027,7 +10027,7 @@
     "release_date_raw": "Feb 15, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10111,7 +10111,7 @@
     "release_date_raw": "Jan 22, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10147,7 +10147,7 @@
     "release_date_raw": "Jun 6, 2025",
     "genres": "Action",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10183,7 +10183,7 @@
     "release_date_raw": "May 9, 2025",
     "genres": "Action;Adventure;Indie;Strategy",
     "categories": "Single-player;Game demo;Camera Comfort;Custom Volume Controls;Keyboard Only Option;Stereo Sound;Surround Sound;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10267,7 +10267,7 @@
     "release_date_raw": "Jul 2, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10279,7 +10279,7 @@
     "release_date_raw": "May 5, 2025",
     "genres": "Action;Casual;Indie",
     "categories": "Single-player;Game demo;Full controller support;Steam Cloud;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10303,7 +10303,7 @@
     "release_date_raw": "Jun 14, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10315,7 +10315,7 @@
     "release_date_raw": "Feb 24, 2025",
     "genres": "Action;Racing",
     "categories": "Single-player;Game demo;Steam Achievements;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10327,7 +10327,7 @@
     "release_date_raw": "Feb 17, 2025",
     "genres": "Adventure;Indie;RPG",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10363,7 +10363,7 @@
     "release_date_raw": "Sep 5, 2025",
     "genres": "Casual;Indie",
     "categories": "Single-player;Steam Achievements;Full controller support;Camera Comfort;Color Alternatives;Custom Volume Controls;Mouse Only Option;Playable without Timed Input;Save Anytime;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10375,7 +10375,7 @@
     "release_date_raw": "Apr 24, 2025",
     "genres": "Action;Adventure;Indie;RPG;Strategy",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10411,7 +10411,7 @@
     "release_date_raw": "Feb 18, 2025",
     "genres": "Casual;Free To Play",
     "categories": "Single-player;Steam Achievements;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10423,7 +10423,7 @@
     "release_date_raw": "May 28, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10435,7 +10435,7 @@
     "release_date_raw": "May 29, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Custom Volume Controls;Adjustable Difficulty;Playable without Timed Input;Save Anytime;Stereo Sound;Subtitle Options",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10495,7 +10495,7 @@
     "release_date_raw": "Aug 28, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10519,7 +10519,7 @@
     "release_date_raw": "Jun 8, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10543,7 +10543,7 @@
     "release_date_raw": "Apr 30, 2025",
     "genres": null,
     "categories": "Single-player;Multi-player;Co-op;Online Co-op;Game demo;Full controller support;Adjustable Text Size;Keyboard Only Option;Stereo Sound;Surround Sound",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10567,7 +10567,7 @@
     "release_date_raw": "Sep 25, 2025",
     "genres": "Indie",
     "categories": "Single-player;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10579,7 +10579,7 @@
     "release_date_raw": "Feb 19, 2025",
     "genres": "Adventure;Indie;RPG;Strategy",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10591,7 +10591,7 @@
     "release_date_raw": "Jul 3, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10675,7 +10675,7 @@
     "release_date_raw": "Aug 22, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Camera Comfort;Custom Volume Controls;Playable without Timed Input;Stereo Sound;Subtitle Options;Surround Sound;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10759,7 +10759,7 @@
     "release_date_raw": "Jun 8, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Custom Volume Controls;Stereo Sound",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10783,7 +10783,7 @@
     "release_date_raw": "May 2, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10819,7 +10819,7 @@
     "release_date_raw": "Jun 19, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10831,7 +10831,7 @@
     "release_date_raw": "Jun 11, 2025",
     "genres": "Action;Adventure;Indie;Free To Play",
     "categories": "Single-player;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10843,7 +10843,7 @@
     "release_date_raw": "Apr 16, 2025",
     "genres": "Action;Strategy",
     "categories": "Single-player;Game demo;Steam Achievements;Full controller support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10891,7 +10891,7 @@
     "release_date_raw": "Apr 30, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements;Full controller support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10903,7 +10903,7 @@
     "release_date_raw": "Mar 21, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10927,7 +10927,7 @@
     "release_date_raw": "Jan 22, 2025",
     "genres": "Casual;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10951,7 +10951,7 @@
     "release_date_raw": "Jul 12, 2025",
     "genres": "Adventure;Simulation;Strategy",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10975,7 +10975,7 @@
     "release_date_raw": "Sep 26, 2025",
     "genres": "Action;Indie",
     "categories": "Single-player;Custom Volume Controls;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -10999,7 +10999,7 @@
     "release_date_raw": "Feb 11, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -11071,7 +11071,7 @@
     "release_date_raw": "Jun 6, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -11107,7 +11107,7 @@
     "release_date_raw": "Oct 12, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Custom Volume Controls;Keyboard Only Option;Mouse Only Option;Playable without Timed Input;Save Anytime;Touch Only Option;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -11155,7 +11155,7 @@
     "release_date_raw": "Apr 24, 2025",
     "genres": "Action;Adventure;Indie",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -11167,7 +11167,7 @@
     "release_date_raw": "Jan 22, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -11191,7 +11191,7 @@
     "release_date_raw": "Jul 23, 2025",
     "genres": "Action;Strategy",
     "categories": "Single-player;Game demo;Stereo Sound",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -11239,7 +11239,7 @@
     "release_date_raw": "Sep 12, 2025",
     "genres": "Indie;Free To Play;Animation & Modeling;Early Access",
     "categories": "Downloadable Content;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -11263,7 +11263,7 @@
     "release_date_raw": "Aug 16, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Custom Volume Controls;Mouse Only Option;Save Anytime;Touch Only Option",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -11275,7 +11275,7 @@
     "release_date_raw": "Apr 1, 2025",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -11287,7 +11287,7 @@
     "release_date_raw": "Jun 24, 2025",
     "genres": "Casual;Indie;Free To Play",
     "categories": "Single-player;Multi-player;Co-op;LAN Co-op;VR Only;Custom Volume Controls;Stereo Sound",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -11335,7 +11335,7 @@
     "release_date_raw": "May 14, 2025",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -11347,7 +11347,7 @@
     "release_date_raw": "Jun 11, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -11395,7 +11395,7 @@
     "release_date_raw": "Nov 14, 2025",
     "genres": "Action;Adventure;Casual;Indie;Simulation",
     "categories": "Single-player;Multi-player;Co-op;Online Co-op;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -11407,7 +11407,7 @@
     "release_date_raw": "Apr 23, 2025",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },
@@ -11443,7 +11443,7 @@
     "release_date_raw": "Jul 28, 2025",
     "genres": null,
     "categories": "Single-player;Multi-player;PvP;Shared/Split Screen PvP;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Full controller support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2025.0
   },

@@ -79,7 +79,7 @@
     "release_date_raw": "Sep 6, 2018",
     "genres": "Indie;Simulation",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -103,7 +103,7 @@
     "release_date_raw": "Jun 4, 2018",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Partial Controller Support;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -211,7 +211,7 @@
     "release_date_raw": "Apr 18, 2018",
     "genres": "Action;Indie",
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -271,7 +271,7 @@
     "release_date_raw": "Dec 17, 2018",
     "genres": "Adventure;Casual;Free To Play;Indie;RPG",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -283,7 +283,7 @@
     "release_date_raw": "May 8, 2018",
     "genres": "Adventure;Casual;Indie",
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -307,7 +307,7 @@
     "release_date_raw": "Jun 30, 2018",
     "genres": "Action;Casual;Free To Play;Indie;Strategy",
     "categories": "Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Full controller support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -331,7 +331,7 @@
     "release_date_raw": "Oct 1, 2018",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -343,7 +343,7 @@
     "release_date_raw": "Mar 7, 2018",
     "genres": "Indie;Simulation",
     "categories": "Single-player;Game demo;VR Only;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -415,7 +415,7 @@
     "release_date_raw": "Jan 3, 2018",
     "genres": "Movie",
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -487,7 +487,7 @@
     "release_date_raw": "Sep 15, 2018",
     "genres": "Adventure;Indie;Strategy;Free To Play",
     "categories": "Single-player;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -523,7 +523,7 @@
     "release_date_raw": "Oct 17, 2018",
     "genres": "Movie",
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -535,7 +535,7 @@
     "release_date_raw": "Sep 19, 2018",
     "genres": "Adventure;Casual",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -547,7 +547,7 @@
     "release_date_raw": "Dec 7, 2018",
     "genres": "Action;Adventure;Indie",
     "categories": "Single-player;Multi-player;Co-op;Online Co-op;Steam Achievements;Captions available;Steam Workshop;Partial Controller Support;Steam Cloud;Includes level editor",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -679,7 +679,7 @@
     "release_date_raw": "Apr 18, 2018",
     "genres": "Action;Free To Play;Massively Multiplayer;RPG",
     "categories": "Multi-player;MMO;Online PvP;Online Co-op;Downloadable Content;Steam Trading Cards;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -739,7 +739,7 @@
     "release_date_raw": "Nov 4, 2018",
     "genres": "Casual;Indie;Simulation",
     "categories": "Single-player;Steam Achievements;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -751,7 +751,7 @@
     "release_date_raw": "Nov 15, 2018",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -835,7 +835,7 @@
     "release_date_raw": "Nov 27, 2018",
     "genres": "Casual;Indie",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -955,7 +955,7 @@
     "release_date_raw": "Mar 27, 2018",
     "genres": "Action;Indie",
     "categories": "Single-player;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1003,7 +1003,7 @@
     "release_date_raw": "Sep 11, 2018",
     "genres": "Strategy",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Cross-Platform Multiplayer;Downloadable Content;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1039,7 +1039,7 @@
     "release_date_raw": "Dec 17, 2018",
     "genres": "Casual",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1063,7 +1063,7 @@
     "release_date_raw": "Jan 9, 2018",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1087,7 +1087,7 @@
     "release_date_raw": "Sep 14, 2018",
     "genres": "Action;Adventure",
     "categories": "Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Remote Play on Phone;Remote Play on Tablet;Remote Play on TV;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1171,7 +1171,7 @@
     "release_date_raw": "Oct 11, 2018",
     "genres": "Indie",
     "categories": "Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Full controller support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1183,7 +1183,7 @@
     "release_date_raw": "Apr 24, 2018",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1231,7 +1231,7 @@
     "release_date_raw": "Jan 24, 2018",
     "genres": "Strategy",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Cross-Platform Multiplayer;Downloadable Content;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1267,7 +1267,7 @@
     "release_date_raw": "Jan 19, 2018",
     "genres": "Casual;Free To Play;Indie;Simulation",
     "categories": "Single-player;Tracked Controller Support;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1303,7 +1303,7 @@
     "release_date_raw": "Jul 11, 2018",
     "genres": "Adventure;Casual;Free To Play;Indie;Strategy",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1327,7 +1327,7 @@
     "release_date_raw": "Oct 12, 2018",
     "genres": "Adventure;Casual;Indie;RPG;Simulation",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1399,7 +1399,7 @@
     "release_date_raw": "Feb 2, 2018",
     "genres": "Adventure;RPG;Strategy",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1507,7 +1507,7 @@
     "release_date_raw": "Jun 27, 2018",
     "genres": "Action;Adventure;Casual;Indie;Simulation",
     "categories": "Single-player;Tracked Controller Support;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1579,7 +1579,7 @@
     "release_date_raw": "Dec 6, 2018",
     "genres": "Action;Indie;Racing;Sports",
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Downloadable Content;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Stats;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1591,7 +1591,7 @@
     "release_date_raw": "Nov 30, 2018",
     "genres": "Adventure",
     "categories": "Single-player;Custom Volume Controls;Mouse Only Option;Playable without Timed Input;Save Anytime;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1615,7 +1615,7 @@
     "release_date_raw": "Jan 12, 2018",
     "genres": "Action;Casual;Indie",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Stats;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1699,7 +1699,7 @@
     "release_date_raw": "Aug 28, 2018",
     "genres": "Casual;Free To Play;Indie",
     "categories": "Single-player;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1735,7 +1735,7 @@
     "release_date_raw": "Oct 5, 2018",
     "genres": "Action;Casual;Indie",
     "categories": "Single-player;Steam Achievements;Partial Controller Support;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1795,7 +1795,7 @@
     "release_date_raw": "Jul 9, 2018",
     "genres": "Violent;Movie",
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1831,7 +1831,7 @@
     "release_date_raw": "Feb 22, 2018",
     "genres": "Utilities;Early Access",
     "categories": "Tracked Controller Support;VR Only;VR Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1867,7 +1867,7 @@
     "release_date_raw": "Jul 16, 2018",
     "genres": "Action;Adventure;Indie;Simulation",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1891,7 +1891,7 @@
     "release_date_raw": "Mar 6, 2018",
     "genres": "Action;Free To Play;Indie",
     "categories": "Single-player;Steam Achievements;Full controller support;Steam Trading Cards;In-App Purchases;Steam Cloud;Stats;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -1951,7 +1951,7 @@
     "release_date_raw": "Sep 14, 2018",
     "genres": "Action;Adventure",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2083,7 +2083,7 @@
     "release_date_raw": "Apr 15, 2018",
     "genres": "Casual",
     "categories": "Single-player;Game demo;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2107,7 +2107,7 @@
     "release_date_raw": "Mar 19, 2018",
     "genres": "Short",
     "categories": "Full controller support;Native Steam Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2143,7 +2143,7 @@
     "release_date_raw": "Jul 4, 2018",
     "genres": "Adventure;Casual;Indie",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Steam Trading Cards;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2191,7 +2191,7 @@
     "release_date_raw": "Jul 16, 2018",
     "genres": "Adventure;Casual",
     "categories": "Single-player;Game demo;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2299,7 +2299,7 @@
     "release_date_raw": "Sep 26, 2018",
     "genres": "Action;Free To Play",
     "categories": "Single-player;Steam Achievements;Captions available;In-App Purchases;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2323,7 +2323,7 @@
     "release_date_raw": "Nov 27, 2018",
     "genres": "Action;Indie",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2371,7 +2371,7 @@
     "release_date_raw": "Aug 17, 2018",
     "genres": "Action;Adventure",
     "categories": "Single-player;Multi-player;Co-op;Online Co-op;Downloadable Content;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2383,7 +2383,7 @@
     "release_date_raw": "May 22, 2018",
     "genres": "Free To Play",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2395,7 +2395,7 @@
     "release_date_raw": "Mar 15, 2018",
     "genres": "Action;Indie",
     "categories": "Single-player;Online PvP;Shared/Split Screen;Cross-Platform Multiplayer;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2419,7 +2419,7 @@
     "release_date_raw": "Apr 3, 2018",
     "genres": "Casual",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2431,7 +2431,7 @@
     "release_date_raw": "Jan 8, 2018",
     "genres": "Violent;Action;Free To Play",
     "categories": "Single-player;Multi-player;Co-op;Downloadable Content;Steam Trading Cards;In-App Purchases;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2479,7 +2479,7 @@
     "release_date_raw": "Dec 21, 2018",
     "genres": "Action;Indie",
     "categories": "Single-player;Multi-player;Online PvP;Co-op;Online Co-op;Cross-Platform Multiplayer;Downloadable Content;Steam Achievements;Steam Trading Cards;Stats;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2515,7 +2515,7 @@
     "release_date_raw": "Jul 13, 2018",
     "genres": "Adventure;Indie",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2563,7 +2563,7 @@
     "release_date_raw": "Jun 27, 2018",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2599,7 +2599,7 @@
     "release_date_raw": "May 7, 2018",
     "genres": "Indie;Strategy;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2683,7 +2683,7 @@
     "release_date_raw": "Jun 15, 2018",
     "genres": "Action",
     "categories": "Single-player;Tracked Controller Support;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2719,7 +2719,7 @@
     "release_date_raw": "Jun 6, 2018",
     "genres": "Action;Adventure;Casual;Indie",
     "categories": "Single-player;Online PvP;Online Co-op;Cross-Platform Multiplayer;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2731,7 +2731,7 @@
     "release_date_raw": "Feb 8, 2018",
     "genres": "Sports",
     "categories": "Single-player;Multi-player;Online PvP;Shared/Split Screen PvP;Online Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2743,7 +2743,7 @@
     "release_date_raw": "Sep 7, 2018",
     "genres": "Action;Adventure;Free To Play;Indie",
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;VR Supported;Partial Controller Support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2779,7 +2779,7 @@
     "release_date_raw": "Nov 15, 2018",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -2923,7 +2923,7 @@
     "release_date_raw": "Jun 27, 2018",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -3223,7 +3223,7 @@
     "release_date_raw": "Aug 9, 2018",
     "genres": "Adventure;Casual;Indie;Simulation",
     "categories": "Single-player;Tracked Controller Support;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -3259,7 +3259,7 @@
     "release_date_raw": "Jul 6, 2018",
     "genres": "Action;Free To Play;Massively Multiplayer;Simulation",
     "categories": "Single-player;Multi-player;MMO;Co-op;Cross-Platform Multiplayer;Downloadable Content;Steam Achievements;In-App Purchases;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -3307,7 +3307,7 @@
     "release_date_raw": "Jul 20, 2018",
     "genres": "Adventure;Casual;Indie;RPG;Simulation",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -3343,7 +3343,7 @@
     "release_date_raw": "Nov 15, 2018",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -3391,7 +3391,7 @@
     "release_date_raw": "Feb 8, 2018",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Steam Achievements;Partial Controller Support;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -3547,7 +3547,7 @@
     "release_date_raw": "Dec 7, 2018",
     "genres": "Action;Indie",
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -3619,7 +3619,7 @@
     "release_date_raw": "Aug 23, 2018",
     "genres": "Violent;Gore;Action;Adventure;Indie;RPG",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -3643,7 +3643,7 @@
     "release_date_raw": "Nov 28, 2018",
     "genres": "Action;Adventure;Massively Multiplayer;RPG",
     "categories": "MMO;Online PvP;Co-op;Online Co-op;In-App Purchases;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -3655,7 +3655,7 @@
     "release_date_raw": "Feb 22, 2018",
     "genres": "Action;Indie;Massively Multiplayer;Simulation",
     "categories": "Multi-player;MMO;Online PvP;Online Co-op;Downloadable Content;Steam Achievements;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -3691,7 +3691,7 @@
     "release_date_raw": "Sep 14, 2018",
     "genres": "Action;Indie",
     "categories": "Multi-player;Co-op;Downloadable Content;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -3883,7 +3883,7 @@
     "release_date_raw": "Jan 5, 2018",
     "genres": "Free To Play",
     "categories": "Single-player;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -3955,7 +3955,7 @@
     "release_date_raw": "Aug 24, 2018",
     "genres": "Audio Production;Video Production",
     "categories": "Tracked Controller Support;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -3991,7 +3991,7 @@
     "release_date_raw": "Sep 27, 2018",
     "genres": "Casual;Indie",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -4003,7 +4003,7 @@
     "release_date_raw": "Jul 6, 2018",
     "genres": "Utilities;Early Access",
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -4039,7 +4039,7 @@
     "release_date_raw": "May 2, 2018",
     "genres": "Action;Adventure;Casual;Free To Play;Indie",
     "categories": "Single-player;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -4051,7 +4051,7 @@
     "release_date_raw": "Sep 14, 2018",
     "genres": "Simulation",
     "categories": "Single-player;Tracked Controller Support;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -4099,7 +4099,7 @@
     "release_date_raw": "May 30, 2018",
     "genres": "Casual;Free To Play;Indie",
     "categories": "Single-player;Steam Achievements;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -4183,7 +4183,7 @@
     "release_date_raw": "Jun 20, 2018",
     "genres": "Action;Free To Play",
     "categories": "Multi-player;Downloadable Content;In-App Purchases;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -4207,7 +4207,7 @@
     "release_date_raw": "Apr 24, 2018",
     "genres": "Casual;Free To Play;Indie;Sports",
     "categories": "Multi-player;PvP;Shared/Split Screen PvP;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Partial Controller Support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -4267,7 +4267,7 @@
     "release_date_raw": "Oct 30, 2018",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -4279,7 +4279,7 @@
     "release_date_raw": "Jun 21, 2018",
     "genres": "Action;Free To Play;Indie;RPG;Strategy",
     "categories": "Single-player;Multi-player;Co-op;Downloadable Content;Steam Achievements;Steam Trading Cards;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -4339,7 +4339,7 @@
     "release_date_raw": "Aug 17, 2018",
     "genres": "Violent;Gore;Movie",
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -4435,7 +4435,7 @@
     "release_date_raw": "Oct 19, 2018",
     "genres": "Casual;Indie",
     "categories": "Single-player;Steam Achievements;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -4459,7 +4459,7 @@
     "release_date_raw": "Jun 7, 2018",
     "genres": "Casual",
     "categories": "Single-player;Tracked Controller Support;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -4555,7 +4555,7 @@
     "release_date_raw": "May 24, 2018",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -4747,7 +4747,7 @@
     "release_date_raw": "Jan 23, 2018",
     "genres": "Movie",
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -4759,7 +4759,7 @@
     "release_date_raw": "Feb 2, 2018",
     "genres": "Action;Adventure",
     "categories": "Single-player;Steam Achievements;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -4795,7 +4795,7 @@
     "release_date_raw": "Jan 9, 2018",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -4807,7 +4807,7 @@
     "release_date_raw": "May 1, 2018",
     "genres": "Action;Adventure;Free To Play;Indie",
     "categories": "Single-player;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },
@@ -4939,7 +4939,7 @@
     "release_date_raw": "May 3, 2018",
     "genres": "Action;Casual;Free To Play;Indie;Early Access",
     "categories": "Multi-player;PvP;Online PvP;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2018.0
   },

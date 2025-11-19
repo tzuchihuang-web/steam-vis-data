@@ -79,7 +79,7 @@
     "release_date_raw": "Aug 16, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Captions available;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -91,7 +91,7 @@
     "release_date_raw": "Jul 26, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -115,7 +115,7 @@
     "release_date_raw": "Oct 31, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -163,7 +163,7 @@
     "release_date_raw": "Jun 18, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements;Full controller support;Custom Volume Controls;Keyboard Only Option;Stereo Sound;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -187,7 +187,7 @@
     "release_date_raw": "Mar 8, 2023",
     "genres": null,
     "categories": "Game demo;Stats",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -247,7 +247,7 @@
     "release_date_raw": "Mar 17, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -271,7 +271,7 @@
     "release_date_raw": "May 6, 2023",
     "genres": "Action;Indie;RPG;Simulation;Strategy",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -283,7 +283,7 @@
     "release_date_raw": "Jan 4, 2023",
     "genres": "Adventure;Indie;RPG;Simulation;Strategy",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Partial Controller Support;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -307,7 +307,7 @@
     "release_date_raw": "Oct 11, 2023",
     "genres": "Action;Adventure;Massively Multiplayer;RPG;Free To Play;Early Access",
     "categories": "Multi-player;MMO;Co-op;Online Co-op;Cross-Platform Multiplayer;Tracked Controller Support;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -319,7 +319,7 @@
     "release_date_raw": "Jul 27, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -343,7 +343,7 @@
     "release_date_raw": "Jun 30, 2023",
     "genres": "Animation & Modeling",
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -427,7 +427,7 @@
     "release_date_raw": "Sep 5, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -451,7 +451,7 @@
     "release_date_raw": "May 18, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -463,7 +463,7 @@
     "release_date_raw": "Jun 29, 2023",
     "genres": "Adventure;Casual;Indie",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Full controller support;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -499,7 +499,7 @@
     "release_date_raw": "Jun 22, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -559,7 +559,7 @@
     "release_date_raw": "Jan 11, 2023",
     "genres": "Action;Casual;RPG;Strategy;Early Access",
     "categories": "Multi-player;PvP;Online PvP;Co-op;Online Co-op",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -595,7 +595,7 @@
     "release_date_raw": "Jan 27, 2023",
     "genres": null,
     "categories": "Single-player;Multi-player;PvP;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -631,7 +631,7 @@
     "release_date_raw": "Mar 26, 2023",
     "genres": "Action;Adventure;Casual;Free To Play;Indie",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -643,7 +643,7 @@
     "release_date_raw": "Jun 8, 2023",
     "genres": "Casual;Indie;Simulation;Strategy",
     "categories": "Single-player;Game demo;Full controller support;Custom Volume Controls;Adjustable Difficulty;Keyboard Only Option;Mouse Only Option;Playable without Timed Input;Save Anytime;Stereo Sound;Surround Sound;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -667,7 +667,7 @@
     "release_date_raw": "Dec 8, 2023",
     "genres": "Adventure;Casual;Indie;Racing;Simulation",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -679,7 +679,7 @@
     "release_date_raw": "Dec 18, 2023",
     "genres": "Adventure;Casual;Indie",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -703,7 +703,7 @@
     "release_date_raw": "Aug 31, 2023",
     "genres": "Action;Indie;Strategy",
     "categories": "Multi-player;PvP;Online PvP;Cross-Platform Multiplayer;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -727,7 +727,7 @@
     "release_date_raw": "Sep 17, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -739,7 +739,7 @@
     "release_date_raw": "Nov 30, 2023",
     "genres": null,
     "categories": "Game demo;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -763,7 +763,7 @@
     "release_date_raw": "Aug 29, 2023",
     "genres": "Adventure;Indie",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -883,7 +883,7 @@
     "release_date_raw": "Aug 25, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -895,7 +895,7 @@
     "release_date_raw": "Aug 19, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -931,7 +931,7 @@
     "release_date_raw": "Nov 5, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -955,7 +955,7 @@
     "release_date_raw": "Nov 11, 2023",
     "genres": "Action;Adventure;Casual",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -967,7 +967,7 @@
     "release_date_raw": "Apr 19, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1075,7 +1075,7 @@
     "release_date_raw": "May 15, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1123,7 +1123,7 @@
     "release_date_raw": "Apr 28, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1207,7 +1207,7 @@
     "release_date_raw": "Jan 26, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1219,7 +1219,7 @@
     "release_date_raw": "Dec 7, 2023",
     "genres": "Action;Adventure",
     "categories": "Multi-player;Co-op;Online Co-op;LAN Co-op",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1231,7 +1231,7 @@
     "release_date_raw": "Dec 1, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1243,7 +1243,7 @@
     "release_date_raw": "Jun 12, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1315,7 +1315,7 @@
     "release_date_raw": "Dec 16, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1435,7 +1435,7 @@
     "release_date_raw": "Jul 19, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1459,7 +1459,7 @@
     "release_date_raw": "Mar 14, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1471,7 +1471,7 @@
     "release_date_raw": "Dec 7, 2023",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1495,7 +1495,7 @@
     "release_date_raw": "Jul 7, 2023",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1567,7 +1567,7 @@
     "release_date_raw": "Sep 6, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1687,7 +1687,7 @@
     "release_date_raw": "Sep 22, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1735,7 +1735,7 @@
     "release_date_raw": "Apr 19, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1747,7 +1747,7 @@
     "release_date_raw": "Oct 28, 2023",
     "genres": "Action",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Co-op;Online Co-op",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1759,7 +1759,7 @@
     "release_date_raw": "Apr 15, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1771,7 +1771,7 @@
     "release_date_raw": "Sep 28, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1819,7 +1819,7 @@
     "release_date_raw": "Jun 19, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1831,7 +1831,7 @@
     "release_date_raw": "Dec 15, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1867,7 +1867,7 @@
     "release_date_raw": "Jul 15, 2023",
     "genres": "Casual;Indie;Simulation",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1915,7 +1915,7 @@
     "release_date_raw": "Aug 17, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1927,7 +1927,7 @@
     "release_date_raw": "Nov 8, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1951,7 +1951,7 @@
     "release_date_raw": "Aug 19, 2023",
     "genres": "Adventure;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -1987,7 +1987,7 @@
     "release_date_raw": "Jun 2, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2023,7 +2023,7 @@
     "release_date_raw": "Oct 9, 2023",
     "genres": "Action;Adventure;Casual;Racing;Simulation;Free To Play",
     "categories": "Single-player;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2083,7 +2083,7 @@
     "release_date_raw": "Mar 29, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2155,7 +2155,7 @@
     "release_date_raw": "Sep 22, 2023",
     "genres": "Casual",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2203,7 +2203,7 @@
     "release_date_raw": "Mar 12, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2215,7 +2215,7 @@
     "release_date_raw": "Jan 25, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2227,7 +2227,7 @@
     "release_date_raw": "Dec 2, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2287,7 +2287,7 @@
     "release_date_raw": "Sep 25, 2023",
     "genres": "Adventure",
     "categories": "Single-player;Game demo;Steam Achievements;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2299,7 +2299,7 @@
     "release_date_raw": "Nov 23, 2023",
     "genres": "Casual;Indie",
     "categories": "Single-player;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2323,7 +2323,7 @@
     "release_date_raw": "Jun 1, 2023",
     "genres": null,
     "categories": "Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2383,7 +2383,7 @@
     "release_date_raw": "Jul 14, 2023",
     "genres": "Free To Play;Racing",
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Full controller support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2407,7 +2407,7 @@
     "release_date_raw": "May 3, 2023",
     "genres": "Casual;Indie;Free To Play",
     "categories": "Single-player;In-App Purchases;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2431,7 +2431,7 @@
     "release_date_raw": "Mar 7, 2023",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2467,7 +2467,7 @@
     "release_date_raw": "Sep 28, 2023",
     "genres": "Action;Adventure;Indie;Free To Play;Early Access",
     "categories": "Single-player;Partial Controller Support;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2479,7 +2479,7 @@
     "release_date_raw": "Nov 24, 2023",
     "genres": null,
     "categories": "Single-player;Multi-player;PvP;Shared/Split Screen PvP;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2503,7 +2503,7 @@
     "release_date_raw": "Jul 17, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2515,7 +2515,7 @@
     "release_date_raw": "Feb 6, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2575,7 +2575,7 @@
     "release_date_raw": "Mar 1, 2023",
     "genres": "Free To Play;Design & Illustration;Education;Software Training;Utilities;Web Publishing;Game Development",
     "categories": "Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2599,7 +2599,7 @@
     "release_date_raw": "Sep 19, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2611,7 +2611,7 @@
     "release_date_raw": "Nov 22, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2623,7 +2623,7 @@
     "release_date_raw": "Jan 25, 2023",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2671,7 +2671,7 @@
     "release_date_raw": "Jun 20, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2707,7 +2707,7 @@
     "release_date_raw": "Jun 6, 2023",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2731,7 +2731,7 @@
     "release_date_raw": "Mar 2, 2023",
     "genres": "Action;Adventure",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Full controller support;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2755,7 +2755,7 @@
     "release_date_raw": "Aug 30, 2023",
     "genres": "Action;RPG",
     "categories": "Single-player;Co-op;Downloadable Content;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2815,7 +2815,7 @@
     "release_date_raw": "Jun 19, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2863,7 +2863,7 @@
     "release_date_raw": "Feb 8, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2875,7 +2875,7 @@
     "release_date_raw": "Oct 19, 2023",
     "genres": "Adventure;Massively Multiplayer;RPG;Strategy;Early Access",
     "categories": "Single-player;Multi-player;MMO;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2911,7 +2911,7 @@
     "release_date_raw": "Jul 18, 2023",
     "genres": "Casual;Indie;Simulation;Strategy",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -2971,7 +2971,7 @@
     "release_date_raw": "Apr 7, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3019,7 +3019,7 @@
     "release_date_raw": "Aug 3, 2023",
     "genres": "Casual;Indie",
     "categories": "Single-player;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3115,7 +3115,7 @@
     "release_date_raw": "Mar 13, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3139,7 +3139,7 @@
     "release_date_raw": "Sep 28, 2023",
     "genres": null,
     "categories": "Single-player;Multi-player;PvP;Online PvP;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3151,7 +3151,7 @@
     "release_date_raw": "Nov 15, 2023",
     "genres": "Action;Adventure;Massively Multiplayer;RPG;Free To Play",
     "categories": "Single-player;Multi-player;MMO;PvP;Online PvP;Co-op;Online Co-op;Downloadable Content;Steam Achievements;In-App Purchases;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3175,7 +3175,7 @@
     "release_date_raw": "May 22, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3247,7 +3247,7 @@
     "release_date_raw": "Sep 8, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3271,7 +3271,7 @@
     "release_date_raw": "Feb 20, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3319,7 +3319,7 @@
     "release_date_raw": "Aug 28, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3331,7 +3331,7 @@
     "release_date_raw": "Mar 28, 2023",
     "genres": "Indie;Simulation;Strategy",
     "categories": "Single-player;Steam Achievements;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3343,7 +3343,7 @@
     "release_date_raw": "Apr 10, 2023",
     "genres": "Indie;Simulation;Early Access",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3403,7 +3403,7 @@
     "release_date_raw": "Jul 26, 2023",
     "genres": "Simulation",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3415,7 +3415,7 @@
     "release_date_raw": "Mar 15, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3451,7 +3451,7 @@
     "release_date_raw": "Oct 20, 2023",
     "genres": "Action;Adventure;Casual;Indie;RPG;Free To Play",
     "categories": "Single-player;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3511,7 +3511,7 @@
     "release_date_raw": "Sep 28, 2023",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3523,7 +3523,7 @@
     "release_date_raw": "May 12, 2023",
     "genres": "Action;Indie;Early Access",
     "categories": "Multi-player;PvP;Online PvP;Steam Achievements;In-App Purchases;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3559,7 +3559,7 @@
     "release_date_raw": "Mar 7, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3631,7 +3631,7 @@
     "release_date_raw": "Mar 1, 2023",
     "genres": "Simulation;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3667,7 +3667,7 @@
     "release_date_raw": "May 25, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3751,7 +3751,7 @@
     "release_date_raw": "Sep 28, 2023",
     "genres": "Action;Casual;Indie",
     "categories": "Single-player;Tracked Controller Support;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3871,7 +3871,7 @@
     "release_date_raw": "Mar 19, 2023",
     "genres": "Adventure;Free To Play;Indie",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -3967,7 +3967,7 @@
     "release_date_raw": "Jun 7, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4015,7 +4015,7 @@
     "release_date_raw": "Feb 27, 2023",
     "genres": "Casual",
     "categories": "Single-player;Downloadable Content;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4051,7 +4051,7 @@
     "release_date_raw": "Jun 27, 2023",
     "genres": "Indie;RPG;Sports;Strategy",
     "categories": "Single-player;Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4099,7 +4099,7 @@
     "release_date_raw": "Jul 8, 2023",
     "genres": "Action;Indie;Simulation;Strategy;Free To Play;Early Access",
     "categories": "Single-player;Captions available;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4135,7 +4135,7 @@
     "release_date_raw": "Jun 2, 2023",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4231,7 +4231,7 @@
     "release_date_raw": "Oct 13, 2023",
     "genres": "Casual;Indie",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4279,7 +4279,7 @@
     "release_date_raw": "Jun 10, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4315,7 +4315,7 @@
     "release_date_raw": "Jul 9, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4327,7 +4327,7 @@
     "release_date_raw": "Sep 21, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4399,7 +4399,7 @@
     "release_date_raw": "Sep 13, 2023",
     "genres": "Utilities",
     "categories": "Steam Achievements;VR Only;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4495,7 +4495,7 @@
     "release_date_raw": "Jan 26, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4555,7 +4555,7 @@
     "release_date_raw": "Jun 24, 2023",
     "genres": "Action;Free To Play",
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Full controller support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4591,7 +4591,7 @@
     "release_date_raw": "May 17, 2023",
     "genres": null,
     "categories": "Single-player;Multi-player;PvP;Shared/Split Screen PvP;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Full controller support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4639,7 +4639,7 @@
     "release_date_raw": "Dec 16, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4663,7 +4663,7 @@
     "release_date_raw": "Jun 13, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4675,7 +4675,7 @@
     "release_date_raw": "Oct 26, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4711,7 +4711,7 @@
     "release_date_raw": "Dec 12, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4735,7 +4735,7 @@
     "release_date_raw": "Jan 12, 2023",
     "genres": "Action;Adventure",
     "categories": "Single-player;Steam Achievements;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4807,7 +4807,7 @@
     "release_date_raw": "Oct 19, 2023",
     "genres": "Adventure",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4819,7 +4819,7 @@
     "release_date_raw": "Apr 10, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4831,7 +4831,7 @@
     "release_date_raw": "Dec 5, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4879,7 +4879,7 @@
     "release_date_raw": "Nov 4, 2023",
     "genres": "Casual;Free To Play",
     "categories": "Single-player;Tracked Controller Support;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4915,7 +4915,7 @@
     "release_date_raw": "Jun 21, 2023",
     "genres": "Action;Adventure;Free To Play;Indie;Racing",
     "categories": "Single-player;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4927,7 +4927,7 @@
     "release_date_raw": "May 17, 2023",
     "genres": "Action;Adventure;RPG",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -4975,7 +4975,7 @@
     "release_date_raw": "Nov 2, 2023",
     "genres": "Casual;Indie;Sports",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Shared/Split Screen;Downloadable Content;Steam Achievements;Steam Workshop;Partial Controller Support;Stats;Includes level editor;Remote Play on Phone;Remote Play on Tablet;Remote Play Together;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5011,7 +5011,7 @@
     "release_date_raw": "Oct 19, 2023",
     "genres": "Casual;Free To Play",
     "categories": "Single-player;Steam Achievements;In-App Purchases;Steam Cloud;Stats",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5035,7 +5035,7 @@
     "release_date_raw": "Jan 27, 2023",
     "genres": "Indie;Simulation;Free To Play;Early Access",
     "categories": "Single-player;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5047,7 +5047,7 @@
     "release_date_raw": "Aug 10, 2023",
     "genres": "Adventure;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5071,7 +5071,7 @@
     "release_date_raw": "Oct 18, 2023",
     "genres": "Massively Multiplayer;Free To Play;Early Access",
     "categories": "Multi-player;MMO;Tracked Controller Support;VR Supported",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5083,7 +5083,7 @@
     "release_date_raw": "Dec 29, 2023",
     "genres": "Adventure;Casual;Massively Multiplayer;RPG;Simulation;Strategy;Free To Play",
     "categories": "Single-player;Multi-player;MMO;PvP;Online PvP;Co-op;Online Co-op;Downloadable Content;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5107,7 +5107,7 @@
     "release_date_raw": "Jan 13, 2023",
     "genres": "Action;Free To Play;Indie",
     "categories": "Single-player;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5131,7 +5131,7 @@
     "release_date_raw": "Aug 29, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5167,7 +5167,7 @@
     "release_date_raw": "Oct 4, 2023",
     "genres": null,
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Full controller support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5191,7 +5191,7 @@
     "release_date_raw": "Jun 8, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5203,7 +5203,7 @@
     "release_date_raw": "Dec 16, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5227,7 +5227,7 @@
     "release_date_raw": "Jun 15, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5287,7 +5287,7 @@
     "release_date_raw": "Sep 24, 2023",
     "genres": "Action;Adventure;Indie;Early Access",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5323,7 +5323,7 @@
     "release_date_raw": "Sep 27, 2023",
     "genres": null,
     "categories": "Multi-player;Co-op;Online Co-op;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5335,7 +5335,7 @@
     "release_date_raw": "Jun 21, 2023",
     "genres": null,
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Steam Achievements;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5371,7 +5371,7 @@
     "release_date_raw": "Jun 12, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5407,7 +5407,7 @@
     "release_date_raw": "Sep 20, 2023",
     "genres": "Adventure;Casual;Indie",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Partial Controller Support;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5455,7 +5455,7 @@
     "release_date_raw": "Oct 21, 2023",
     "genres": null,
     "categories": "VR Supported",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5503,7 +5503,7 @@
     "release_date_raw": "May 11, 2023",
     "genres": "Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5563,7 +5563,7 @@
     "release_date_raw": "Jun 28, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5683,7 +5683,7 @@
     "release_date_raw": "Oct 7, 2023",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5743,7 +5743,7 @@
     "release_date_raw": "May 3, 2023",
     "genres": "Adventure;Casual;Indie",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5803,7 +5803,7 @@
     "release_date_raw": "Apr 24, 2023",
     "genres": "Simulation",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5851,7 +5851,7 @@
     "release_date_raw": "Jan 5, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5887,7 +5887,7 @@
     "release_date_raw": "Jun 5, 2023",
     "genres": "Action;Free To Play;Indie",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5971,7 +5971,7 @@
     "release_date_raw": "Mar 17, 2023",
     "genres": "Free To Play;Indie;Strategy",
     "categories": "Multi-player;PvP;Online PvP;Steam Achievements;Steam Cloud;Stats",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -5983,7 +5983,7 @@
     "release_date_raw": "Sep 28, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6007,7 +6007,7 @@
     "release_date_raw": "Aug 19, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6031,7 +6031,7 @@
     "release_date_raw": "Apr 21, 2023",
     "genres": "Action;Casual;Free To Play;Indie;Simulation",
     "categories": "Multi-player;PvP;Online PvP;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6067,7 +6067,7 @@
     "release_date_raw": "Jan 24, 2023",
     "genres": "Indie;Strategy",
     "categories": "Single-player;Steam Achievements;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6115,7 +6115,7 @@
     "release_date_raw": "Sep 26, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6151,7 +6151,7 @@
     "release_date_raw": "May 3, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6163,7 +6163,7 @@
     "release_date_raw": "Apr 3, 2023",
     "genres": "Adventure",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6175,7 +6175,7 @@
     "release_date_raw": "Nov 21, 2023",
     "genres": "Casual;Simulation",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Captions available;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6187,7 +6187,7 @@
     "release_date_raw": "Feb 2, 2023",
     "genres": "Adventure;Casual;Indie",
     "categories": "Single-player;Steam Achievements;Full controller support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6199,7 +6199,7 @@
     "release_date_raw": "Apr 12, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6235,7 +6235,7 @@
     "release_date_raw": "Jul 10, 2023",
     "genres": "Action;Casual;Indie;Sports;Free To Play",
     "categories": "Single-player;Steam Achievements;Stats",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6307,7 +6307,7 @@
     "release_date_raw": "Sep 1, 2023",
     "genres": "Action;Adventure;Indie;Simulation",
     "categories": "Single-player;Downloadable Content;Includes level editor;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6439,7 +6439,7 @@
     "release_date_raw": "Oct 27, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6451,7 +6451,7 @@
     "release_date_raw": "Jan 29, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6499,7 +6499,7 @@
     "release_date_raw": "Sep 13, 2023",
     "genres": "Action;Adventure;Casual;Indie;Strategy;Free To Play",
     "categories": "Single-player;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6511,7 +6511,7 @@
     "release_date_raw": "Aug 8, 2023",
     "genres": null,
     "categories": "Game demo;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6523,7 +6523,7 @@
     "release_date_raw": "May 19, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6535,7 +6535,7 @@
     "release_date_raw": "Mar 7, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Tracked Controller Support;VR Supported",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6547,7 +6547,7 @@
     "release_date_raw": "Feb 17, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6559,7 +6559,7 @@
     "release_date_raw": "Nov 30, 2023",
     "genres": "Casual;Indie;Simulation;Free To Play",
     "categories": "Multi-player;Co-op;Online Co-op;LAN Co-op;Steam Achievements;Steam Cloud;Steam Leaderboards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6595,7 +6595,7 @@
     "release_date_raw": "Dec 5, 2023",
     "genres": "Action;Indie;Simulation",
     "categories": "Single-player;Multi-player;PvP;Online PvP;LAN PvP;Co-op;Online Co-op;LAN Co-op;Cross-Platform Multiplayer;Downloadable Content;Steam Achievements;Steam Trading Cards;Steam Workshop;Valve Anti-Cheat enabled;Stats;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6631,7 +6631,7 @@
     "release_date_raw": "Jun 7, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6655,7 +6655,7 @@
     "release_date_raw": "Jul 12, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6691,7 +6691,7 @@
     "release_date_raw": "May 24, 2023",
     "genres": "Adventure;Simulation;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6703,7 +6703,7 @@
     "release_date_raw": "May 29, 2023",
     "genres": null,
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Full controller support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6727,7 +6727,7 @@
     "release_date_raw": "Jul 12, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6799,7 +6799,7 @@
     "release_date_raw": "Apr 28, 2023",
     "genres": "Action;Adventure;Indie",
     "categories": "Single-player;Game demo;Steam Achievements;Full controller support;Captions available;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6835,7 +6835,7 @@
     "release_date_raw": "Sep 19, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6859,7 +6859,7 @@
     "release_date_raw": "Jul 12, 2023",
     "genres": "Action;Adventure",
     "categories": "Single-player;Multi-player;Co-op;Online Co-op;Downloadable Content;In-App Purchases;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6919,7 +6919,7 @@
     "release_date_raw": "Feb 7, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6931,7 +6931,7 @@
     "release_date_raw": "Dec 8, 2023",
     "genres": "Action",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -6991,7 +6991,7 @@
     "release_date_raw": "Mar 22, 2023",
     "genres": "Utilities",
     "categories": "Downloadable Content",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7003,7 +7003,7 @@
     "release_date_raw": "May 17, 2023",
     "genres": "Action;Adventure;Massively Multiplayer;RPG;Free To Play",
     "categories": "Multi-player;MMO;PvP;Online PvP;Steam Achievements;In-App Purchases;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7027,7 +7027,7 @@
     "release_date_raw": "Dec 13, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7039,7 +7039,7 @@
     "release_date_raw": "Jan 5, 2023",
     "genres": "Indie;Simulation;Strategy;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7087,7 +7087,7 @@
     "release_date_raw": "Sep 1, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7147,7 +7147,7 @@
     "release_date_raw": "Jun 23, 2023",
     "genres": "Adventure;Casual;Free To Play;Indie;Early Access",
     "categories": "Single-player;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7159,7 +7159,7 @@
     "release_date_raw": "Dec 31, 2023",
     "genres": "Adventure;Indie;Strategy;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7171,7 +7171,7 @@
     "release_date_raw": "Mar 15, 2023",
     "genres": null,
     "categories": "Single-player;Multi-player;Co-op;Online Co-op;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7231,7 +7231,7 @@
     "release_date_raw": "Oct 9, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7279,7 +7279,7 @@
     "release_date_raw": "Aug 17, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7291,7 +7291,7 @@
     "release_date_raw": "Sep 14, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7339,7 +7339,7 @@
     "release_date_raw": "Oct 10, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7351,7 +7351,7 @@
     "release_date_raw": "Sep 28, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7363,7 +7363,7 @@
     "release_date_raw": "Oct 23, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7375,7 +7375,7 @@
     "release_date_raw": "May 4, 2023",
     "genres": "Design & Illustration;Utilities;Game Development",
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7387,7 +7387,7 @@
     "release_date_raw": "Aug 29, 2023",
     "genres": "Action;Adventure;Indie;RPG;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7447,7 +7447,7 @@
     "release_date_raw": "Jul 21, 2023",
     "genres": "Action;Adventure;Casual",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7507,7 +7507,7 @@
     "release_date_raw": "Oct 26, 2023",
     "genres": "Adventure;Casual;Indie;RPG;Simulation",
     "categories": "Single-player;Full controller support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7519,7 +7519,7 @@
     "release_date_raw": "Jun 5, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7531,7 +7531,7 @@
     "release_date_raw": "Jul 14, 2023",
     "genres": "Animation & Modeling;Utilities;Video Production;Early Access",
     "categories": "Steam Workshop;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7579,7 +7579,7 @@
     "release_date_raw": "Sep 28, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7591,7 +7591,7 @@
     "release_date_raw": "Apr 27, 2023",
     "genres": "Free To Play;Animation & Modeling;Game Development;Early Access",
     "categories": "In-App Purchases;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7651,7 +7651,7 @@
     "release_date_raw": "Feb 17, 2023",
     "genres": null,
     "categories": "Single-player;Multi-player;PvP;Cross-Platform Multiplayer;Game demo;Partial Controller Support;Includes level editor",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7675,7 +7675,7 @@
     "release_date_raw": "Jan 11, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7711,7 +7711,7 @@
     "release_date_raw": "Mar 23, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7759,7 +7759,7 @@
     "release_date_raw": "Nov 29, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7783,7 +7783,7 @@
     "release_date_raw": "Jun 15, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7855,7 +7855,7 @@
     "release_date_raw": "Nov 5, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7879,7 +7879,7 @@
     "release_date_raw": "Apr 21, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7939,7 +7939,7 @@
     "release_date_raw": "Dec 21, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7963,7 +7963,7 @@
     "release_date_raw": "Oct 6, 2023",
     "genres": null,
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Full controller support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7987,7 +7987,7 @@
     "release_date_raw": "Aug 16, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -7999,7 +7999,7 @@
     "release_date_raw": "Oct 24, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8059,7 +8059,7 @@
     "release_date_raw": "May 26, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8071,7 +8071,7 @@
     "release_date_raw": "Dec 11, 2023",
     "genres": "Action",
     "categories": "Single-player;Downloadable Content;Full controller support;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8107,7 +8107,7 @@
     "release_date_raw": "Oct 15, 2023",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Downloadable Content;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8119,7 +8119,7 @@
     "release_date_raw": "Aug 28, 2023",
     "genres": "Adventure;Indie;RPG;Strategy",
     "categories": "Single-player;Game demo;Custom Volume Controls;Adjustable Difficulty;Mouse Only Option;Playable without Timed Input;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8155,7 +8155,7 @@
     "release_date_raw": "Sep 25, 2023",
     "genres": null,
     "categories": "Single-player;Multi-player;PvP;Shared/Split Screen PvP;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Partial Controller Support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8203,7 +8203,7 @@
     "release_date_raw": "Jan 18, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8239,7 +8239,7 @@
     "release_date_raw": "Apr 7, 2023",
     "genres": "Casual;Free To Play;Indie",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8323,7 +8323,7 @@
     "release_date_raw": "Apr 17, 2023",
     "genres": "Action;Adventure;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8335,7 +8335,7 @@
     "release_date_raw": "Jan 27, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8347,7 +8347,7 @@
     "release_date_raw": "Jun 22, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8359,7 +8359,7 @@
     "release_date_raw": "Oct 10, 2023",
     "genres": "Action;Adventure;Indie;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8371,7 +8371,7 @@
     "release_date_raw": "Feb 14, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8395,7 +8395,7 @@
     "release_date_raw": "Aug 26, 2023",
     "genres": null,
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8419,7 +8419,7 @@
     "release_date_raw": "Jun 18, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8491,7 +8491,7 @@
     "release_date_raw": "Oct 8, 2023",
     "genres": "Adventure",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8539,7 +8539,7 @@
     "release_date_raw": "Jan 27, 2023",
     "genres": "Action;Adventure;Indie;Free To Play",
     "categories": "Single-player;Steam Achievements;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8551,7 +8551,7 @@
     "release_date_raw": "Dec 22, 2023",
     "genres": "Action;Indie;RPG",
     "categories": "Single-player;Game demo;Full controller support;Adjustable Text Size;Camera Comfort;Color Alternatives;Custom Volume Controls;Adjustable Difficulty;Keyboard Only Option;Playable without Timed Input;Save Anytime;Stereo Sound;Subtitle Options;Steam Cloud;Remote Play on TV",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8575,7 +8575,7 @@
     "release_date_raw": "Feb 1, 2023",
     "genres": "Adventure;Casual;Indie;Simulation;Strategy",
     "categories": "Single-player;Multi-player;PvP;Online PvP;LAN PvP;Co-op;Online Co-op;LAN Co-op",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8599,7 +8599,7 @@
     "release_date_raw": "Jul 21, 2023",
     "genres": null,
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Partial Controller Support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8731,7 +8731,7 @@
     "release_date_raw": "Oct 5, 2023",
     "genres": null,
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8743,7 +8743,7 @@
     "release_date_raw": "Jul 26, 2023",
     "genres": null,
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   },
@@ -8791,7 +8791,7 @@
     "release_date_raw": "Apr 19, 2023",
     "genres": null,
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Game demo;Steam Achievements;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2023.0
   }

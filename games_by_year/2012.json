@@ -103,7 +103,7 @@
     "release_date_raw": "Apr 3, 2012",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2012.0
   },
@@ -127,7 +127,7 @@
     "release_date_raw": "Oct 15, 2012",
     "genres": "Strategy;Indie;Simulation",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2012.0
   },
@@ -175,7 +175,7 @@
     "release_date_raw": "Aug 13, 2012",
     "genres": "Action",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2012.0
   },
@@ -247,7 +247,7 @@
     "release_date_raw": "Jul 27, 2012",
     "genres": "Action;Indie;Strategy",
     "categories": "Single-player;Co-op;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2012.0
   },
@@ -259,7 +259,7 @@
     "release_date_raw": "Sep 11, 2012",
     "genres": "Indie",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2012.0
   },

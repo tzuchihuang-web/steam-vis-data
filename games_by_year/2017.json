@@ -19,7 +19,7 @@
     "release_date_raw": "May 1, 2017",
     "genres": "Movie",
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -103,7 +103,7 @@
     "release_date_raw": "Sep 19, 2017",
     "genres": "Movie",
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -127,7 +127,7 @@
     "release_date_raw": "Mar 1, 2017",
     "genres": "Simulation",
     "categories": "Single-player;Downloadable Content;Partial Controller Support;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -163,7 +163,7 @@
     "release_date_raw": "Nov 14, 2017",
     "genres": "Action",
     "categories": "Single-player;Multi-player;Online PvP;Shared/Split Screen PvP;Downloadable Content;Steam Achievements;Full controller support;Steam Trading Cards;In-App Purchases;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -175,7 +175,7 @@
     "release_date_raw": "Feb 16, 2017",
     "genres": "Action;Adventure;Indie",
     "categories": "Single-player;Game demo;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -187,7 +187,7 @@
     "release_date_raw": "Mar 8, 2017",
     "genres": "Design & Illustration",
     "categories": "Tracked Controller Support;VR Only;VR Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -199,7 +199,7 @@
     "release_date_raw": "Sep 24, 2017",
     "genres": "Animation & Modeling;Design & Illustration;Utilities",
     "categories": "Tracked Controller Support;VR Supported",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -235,7 +235,7 @@
     "release_date_raw": "Aug 25, 2017",
     "genres": "Casual;Indie;Strategy",
     "categories": "Single-player;Steam Workshop;Stats",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -247,7 +247,7 @@
     "release_date_raw": "Oct 18, 2017",
     "genres": "Strategy",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -271,7 +271,7 @@
     "release_date_raw": "Sep 5, 2017",
     "genres": "Casual;Indie;Strategy",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Shared/Split Screen;Cross-Platform Multiplayer;Downloadable Content;Steam Achievements;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -319,7 +319,7 @@
     "release_date_raw": "Oct 30, 2017",
     "genres": "Adventure;Free To Play",
     "categories": "Single-player;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -379,7 +379,7 @@
     "release_date_raw": "Oct 30, 2017",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -391,7 +391,7 @@
     "release_date_raw": "Aug 9, 2017",
     "genres": "Utilities;Video Production",
     "categories": "Tracked Controller Support;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -427,7 +427,7 @@
     "release_date_raw": "Oct 11, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -451,7 +451,7 @@
     "release_date_raw": "Dec 5, 2017",
     "genres": "Sexual Content;Movie",
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -547,7 +547,7 @@
     "release_date_raw": "Apr 5, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -595,7 +595,7 @@
     "release_date_raw": "Dec 8, 2017",
     "genres": "Violent;Gore;Action;Indie",
     "categories": "Single-player;Steam Achievements;Full controller support;Steam Cloud;Steam Leaderboards;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -607,7 +607,7 @@
     "release_date_raw": "Jul 30, 2017",
     "genres": "Gore;Adventure",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -691,7 +691,7 @@
     "release_date_raw": "Nov 30, 2017",
     "genres": "Short;360 Video",
     "categories": "Full controller support;Native Steam Controller Support;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -727,7 +727,7 @@
     "release_date_raw": "Feb 15, 2017",
     "genres": "Simulation",
     "categories": "Single-player;Downloadable Content;Partial Controller Support;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -871,7 +871,7 @@
     "release_date_raw": "May 26, 2017",
     "genres": "Violent;Movie",
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -883,7 +883,7 @@
     "release_date_raw": "Oct 13, 2017",
     "genres": null,
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -895,7 +895,7 @@
     "release_date_raw": "May 16, 2017",
     "genres": "Massively Multiplayer;RPG;Early Access",
     "categories": "Multi-player;MMO",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1039,7 +1039,7 @@
     "release_date_raw": "Nov 16, 2017",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Game demo;Steam Achievements;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1075,7 +1075,7 @@
     "release_date_raw": "Apr 21, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1087,7 +1087,7 @@
     "release_date_raw": "Jan 18, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1111,7 +1111,7 @@
     "release_date_raw": "Nov 28, 2017",
     "genres": "Action;Adventure;Indie",
     "categories": "Single-player;Downloadable Content;Steam Trading Cards;Stats;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1135,7 +1135,7 @@
     "release_date_raw": "Sep 22, 2017",
     "genres": "Action;Adventure;Casual;Free To Play;Indie;Massively Multiplayer;Strategy;Movie",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Co-op;Online Co-op;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;In-App Purchases;Steam Cloud;Remote Play on TV",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1171,7 +1171,7 @@
     "release_date_raw": "Aug 28, 2017",
     "genres": "Adventure;Indie;RPG;Strategy",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1219,7 +1219,7 @@
     "release_date_raw": "Jun 22, 2017",
     "genres": "Adventure;Indie;RPG",
     "categories": "Single-player;Game demo;Steam Achievements;Captions available;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1231,7 +1231,7 @@
     "release_date_raw": "Dec 19, 2017",
     "genres": "Adventure",
     "categories": "Single-player;Steam Achievements;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1243,7 +1243,7 @@
     "release_date_raw": "Oct 4, 2017",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1279,7 +1279,7 @@
     "release_date_raw": "Nov 22, 2017",
     "genres": "Animation & Modeling;Design & Illustration",
     "categories": "Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1315,7 +1315,7 @@
     "release_date_raw": "Jun 14, 2017",
     "genres": "Action;Indie",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Stats;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1339,7 +1339,7 @@
     "release_date_raw": "Aug 17, 2017",
     "genres": "Action;Casual;Indie",
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Stats;Remote Play Together;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1363,7 +1363,7 @@
     "release_date_raw": "Jan 28, 2017",
     "genres": "Action;Indie",
     "categories": "Multi-player;PvP;Shared/Split Screen PvP;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Full controller support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1375,7 +1375,7 @@
     "release_date_raw": "Sep 3, 2017",
     "genres": "Action;Adventure;Indie",
     "categories": "Single-player;Game demo;Steam Achievements;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1495,7 +1495,7 @@
     "release_date_raw": "Dec 5, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1579,7 +1579,7 @@
     "release_date_raw": "Jun 20, 2017",
     "genres": "Movie",
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1615,7 +1615,7 @@
     "release_date_raw": "Apr 21, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1627,7 +1627,7 @@
     "release_date_raw": "Apr 7, 2017",
     "genres": "Indie;RPG",
     "categories": "Single-player;Game demo;Partial Controller Support;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1663,7 +1663,7 @@
     "release_date_raw": "Feb 21, 2017",
     "genres": "Action;Indie;Racing;Sports",
     "categories": "Single-player;Multi-player;Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Downloadable Content;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Stats;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1687,7 +1687,7 @@
     "release_date_raw": "Dec 1, 2017",
     "genres": "Adventure;Casual;Simulation",
     "categories": "Single-player;Steam Achievements;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1747,7 +1747,7 @@
     "release_date_raw": "Jul 4, 2017",
     "genres": "Animation & Modeling",
     "categories": "Downloadable Content;Steam Workshop",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1795,7 +1795,7 @@
     "release_date_raw": "May 10, 2017",
     "genres": "Episodic",
     "categories": "Full controller support;Native Steam Controller Support;VR Supported;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1879,7 +1879,7 @@
     "release_date_raw": "Aug 28, 2017",
     "genres": "Casual;Simulation",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1927,7 +1927,7 @@
     "release_date_raw": "Nov 16, 2017",
     "genres": "Action;Indie;Early Access",
     "categories": "Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Cross-Platform Multiplayer;Tracked Controller Support;VR Only;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1975,7 +1975,7 @@
     "release_date_raw": "Feb 14, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1987,7 +1987,7 @@
     "release_date_raw": "Sep 14, 2017",
     "genres": "Indie",
     "categories": "Single-player;Downloadable Content",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -1999,7 +1999,7 @@
     "release_date_raw": "Jan 10, 2017",
     "genres": "Action;Simulation",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Steam Trading Cards;Partial Controller Support;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2083,7 +2083,7 @@
     "release_date_raw": "Apr 11, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2119,7 +2119,7 @@
     "release_date_raw": "Nov 17, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support;Commentary available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2143,7 +2143,7 @@
     "release_date_raw": "Jul 28, 2017",
     "genres": "Casual;Indie;Free To Play",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2167,7 +2167,7 @@
     "release_date_raw": "Jun 13, 2017",
     "genres": "Movie",
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2299,7 +2299,7 @@
     "release_date_raw": "Mar 21, 2017",
     "genres": "Action",
     "categories": "Single-player;Multi-player;Co-op;Downloadable Content;Steam Trading Cards;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2323,7 +2323,7 @@
     "release_date_raw": "Jul 25, 2017",
     "genres": "Free To Play;Massively Multiplayer;RPG",
     "categories": "MMO;Downloadable Content;Partial Controller Support;Valve Anti-Cheat enabled",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2335,7 +2335,7 @@
     "release_date_raw": "Dec 11, 2017",
     "genres": "Sexual Content;Nudity;Violent;Gore;Action;Adventure;Indie;RPG",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2359,7 +2359,7 @@
     "release_date_raw": "Dec 5, 2017",
     "genres": "Casual;Indie",
     "categories": "Single-player;Steam Achievements;Full controller support;Steam Cloud;Stats",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2383,7 +2383,7 @@
     "release_date_raw": "Jun 30, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2419,7 +2419,7 @@
     "release_date_raw": "Mar 8, 2017",
     "genres": "Free To Play;Indie;Massively Multiplayer;Strategy",
     "categories": "Single-player;Multi-player;Online PvP;Cross-Platform Multiplayer;Downloadable Content;Steam Trading Cards;In-App Purchases;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2431,7 +2431,7 @@
     "release_date_raw": "Aug 3, 2017",
     "genres": "Audio Production",
     "categories": "Downloadable Content",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2455,7 +2455,7 @@
     "release_date_raw": "Mar 3, 2017",
     "genres": "Casual;Free To Play;Indie",
     "categories": "Single-player;Game demo;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2539,7 +2539,7 @@
     "release_date_raw": "Aug 4, 2017",
     "genres": "Adventure;Indie;RPG",
     "categories": "Single-player;Partial Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2659,7 +2659,7 @@
     "release_date_raw": "Jan 27, 2017",
     "genres": "Action;Casual;Indie",
     "categories": "Single-player;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2671,7 +2671,7 @@
     "release_date_raw": "Aug 22, 2017",
     "genres": "Violent;Gore;Action;Adventure",
     "categories": "Single-player;Co-op;Online Co-op;Downloadable Content;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2719,7 +2719,7 @@
     "release_date_raw": "Feb 28, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2815,7 +2815,7 @@
     "release_date_raw": "Oct 10, 2017",
     "genres": "Action",
     "categories": "Single-player;Multi-player;Shared/Split Screen PvP;Co-op;Shared/Split Screen Co-op;Downloadable Content;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2827,7 +2827,7 @@
     "release_date_raw": "May 23, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -2995,7 +2995,7 @@
     "release_date_raw": "May 8, 2017",
     "genres": "Sports",
     "categories": "Single-player;Multi-player;Online PvP;Shared/Split Screen PvP;Shared/Split Screen Co-op;Steam Achievements;Full controller support;Steam Cloud;Remote Play on TV;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -3187,7 +3187,7 @@
     "release_date_raw": "Jan 13, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -3295,7 +3295,7 @@
     "release_date_raw": "Mar 27, 2017",
     "genres": "Casual;Free To Play;Simulation",
     "categories": "Single-player;Tracked Controller Support;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -3367,7 +3367,7 @@
     "release_date_raw": "Apr 24, 2017",
     "genres": "Indie;Simulation",
     "categories": "Single-player;Downloadable Content;Steam Achievements;Steam Cloud;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -3379,7 +3379,7 @@
     "release_date_raw": "Mar 2, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -3391,7 +3391,7 @@
     "release_date_raw": "Nov 22, 2017",
     "genres": "Animation & Modeling;Design & Illustration",
     "categories": null,
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -3427,7 +3427,7 @@
     "release_date_raw": "Aug 23, 2017",
     "genres": "Nudity;Action;Free To Play;Simulation;Sports",
     "categories": "Single-player;Game demo;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -3451,7 +3451,7 @@
     "release_date_raw": "Aug 8, 2017",
     "genres": "Action;Adventure;Indie;Free To Play",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -3487,7 +3487,7 @@
     "release_date_raw": "Feb 17, 2017",
     "genres": "Movie",
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -3523,7 +3523,7 @@
     "release_date_raw": "Aug 16, 2017",
     "genres": "Free To Play",
     "categories": "Single-player;Steam Achievements;Steam Cloud",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -3535,7 +3535,7 @@
     "release_date_raw": "Mar 6, 2017",
     "genres": "Action;Adventure;Casual;Indie;RPG;Free To Play",
     "categories": "Single-player;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -3559,7 +3559,7 @@
     "release_date_raw": "Dec 8, 2017",
     "genres": "Movie",
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -3631,7 +3631,7 @@
     "release_date_raw": "Sep 29, 2017",
     "genres": "Casual;Indie;Strategy",
     "categories": "Single-player;Game demo;Full controller support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -3847,7 +3847,7 @@
     "release_date_raw": "Oct 17, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -3883,7 +3883,7 @@
     "release_date_raw": "Apr 4, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -3979,7 +3979,7 @@
     "release_date_raw": "Feb 15, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -3991,7 +3991,7 @@
     "release_date_raw": "Aug 25, 2017",
     "genres": "Action;Adventure;Indie",
     "categories": "Single-player;Multi-player;Online PvP;Co-op;Online Co-op;Cross-Platform Multiplayer;Downloadable Content;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Stats;Steam Leaderboards;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -4051,7 +4051,7 @@
     "release_date_raw": "Jul 12, 2017",
     "genres": "Sexual Content;Movie",
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -4063,7 +4063,7 @@
     "release_date_raw": "Dec 1, 2017",
     "genres": "Action;Free To Play;Indie;Strategy",
     "categories": "Single-player;Steam Achievements;Tracked Controller Support;VR Only;Steam Trading Cards",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -4099,7 +4099,7 @@
     "release_date_raw": "Dec 11, 2017",
     "genres": "Massively Multiplayer;RPG;Strategy;Free To Play",
     "categories": "Multi-player;PvP;Online PvP;Steam Achievements;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -4123,7 +4123,7 @@
     "release_date_raw": "Sep 1, 2017",
     "genres": "Action;Indie",
     "categories": "Single-player;Multi-player;PvP;Shared/Split Screen PvP;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Full controller support;Remote Play Together",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -4147,7 +4147,7 @@
     "release_date_raw": "Aug 2, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support;Steam Trading Cards;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -4207,7 +4207,7 @@
     "release_date_raw": "Jun 27, 2017",
     "genres": null,
     "categories": "Full controller support;Native Steam Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -4219,7 +4219,7 @@
     "release_date_raw": "Jun 16, 2017",
     "genres": "Violent;Adventure",
     "categories": "Single-player;Game demo;Full controller support;In-App Purchases",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -4267,7 +4267,7 @@
     "release_date_raw": "Oct 6, 2017",
     "genres": "Movie",
     "categories": "Full controller support;Native Steam Controller Support",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -4291,7 +4291,7 @@
     "release_date_raw": "Jul 18, 2017",
     "genres": "Sexual Content;Violent;Movie",
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -4315,7 +4315,7 @@
     "release_date_raw": "Mar 30, 2017",
     "genres": "Simulation",
     "categories": "Single-player;Online PvP;Shared/Split Screen PvP;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -4339,7 +4339,7 @@
     "release_date_raw": "Dec 29, 2017",
     "genres": "Simulation;Free To Play",
     "categories": "Single-player;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -4363,7 +4363,7 @@
     "release_date_raw": "Jan 12, 2017",
     "genres": "Action;Indie",
     "categories": "Single-player;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -4387,7 +4387,7 @@
     "release_date_raw": "Oct 14, 2017",
     "genres": "Adventure;Indie",
     "categories": "Single-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -4399,7 +4399,7 @@
     "release_date_raw": "Jul 4, 2017",
     "genres": "Action;Adventure;Indie",
     "categories": "Single-player;Game demo;VR Only",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },
@@ -4423,7 +4423,7 @@
     "release_date_raw": "May 17, 2017",
     "genres": "Violent;Movie",
     "categories": "Full controller support;Native Steam Controller Support;Captions available",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2017.0
   },

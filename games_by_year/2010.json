@@ -43,7 +43,7 @@
     "release_date_raw": "Jul 20, 2010",
     "genres": "Action;Casual;Indie",
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2010.0
   },
@@ -79,7 +79,7 @@
     "release_date_raw": "Sep 27, 2010",
     "genres": "Action;Adventure",
     "categories": "Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2010.0
   },

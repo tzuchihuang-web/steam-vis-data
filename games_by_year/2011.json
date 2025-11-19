@@ -55,7 +55,7 @@
     "release_date_raw": "Oct 20, 2011",
     "genres": "Strategy",
     "categories": "Single-player;Multi-player;Co-op;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2011.0
   },
@@ -79,7 +79,7 @@
     "release_date_raw": "Oct 4, 2011",
     "genres": "RPG;Simulation",
     "categories": "Single-player;Multi-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2011.0
   },
@@ -127,7 +127,7 @@
     "release_date_raw": "May 26, 2011",
     "genres": "Strategy",
     "categories": "Co-op;Downloadable Content;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2011.0
   },
@@ -139,7 +139,7 @@
     "release_date_raw": "Jun 14, 2011",
     "genres": "Massively Multiplayer;RPG;Free To Play",
     "categories": "Multi-player;MMO;Co-op;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2011.0
   },
@@ -163,7 +163,7 @@
     "release_date_raw": "Dec 6, 2011",
     "genres": "Action;Massively Multiplayer;Free To Play",
     "categories": "Multi-player;MMO;Steam Achievements",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2011.0
   },

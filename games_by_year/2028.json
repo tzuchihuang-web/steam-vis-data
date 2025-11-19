@@ -7,7 +7,7 @@
     "release_date_raw": "Jan 3, 2028",
     "genres": null,
     "categories": "Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2028.0
   },
@@ -19,7 +19,7 @@
     "release_date_raw": "Dec 20, 2028",
     "genres": "Action;Casual;Indie",
     "categories": "Single-player;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2028.0
   },
@@ -31,7 +31,7 @@
     "release_date_raw": "Jan 3, 2028",
     "genres": "Action;Casual;Indie;RPG",
     "categories": "Single-player;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2028.0
   }

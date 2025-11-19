@@ -7,7 +7,7 @@
     "release_date_raw": "Dec 24, 2034",
     "genres": "Action;Adventure;RPG;Simulation",
     "categories": "Single-player",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2034.0
   }

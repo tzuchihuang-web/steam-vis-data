@@ -7,7 +7,7 @@
     "release_date_raw": "Oct 22, 2009",
     "genres": "Action;Indie;Racing;Sports",
     "categories": "Single-player;Multi-player;Game demo",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2009.0
   },
@@ -115,7 +115,7 @@
     "release_date_raw": "Nov 4, 2009",
     "genres": "Action;Indie",
     "categories": "Single-player;Multi-player;Valve Anti-Cheat enabled;Family Sharing",
-    "price": NaN,
+    "price": null,
     "currency": null,
     "release_year": 2009.0
   },
